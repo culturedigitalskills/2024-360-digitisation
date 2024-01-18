@@ -1,117 +1,100 @@
 ---
-title: 'introduction'
+title: 'Introduction'
 teaching: 10
 exercises: 2
 ---
 
+
 :::::::::::::::::::::::::::::::::::::: questions 
+- What is 360 Panorama Capturing?
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- Where and when can we use 360 Panorama ?
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+- Explains what is 360 Panorama Capturing
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Shows various scenarios where this technique can be applied to capture 360 environments.
+
+- Showa how to process and stitch 360 photo shooting.
+
+- Shows How to publish 360 mono panorama
+
+<!-- - Advantages and disadvantages for the use of this techniques.-->
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Definition (What)
+Panoramic photographs are special photoraphs with the
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+|   |
+|---|
+| ![360 degree view of Giza pyramid complex.](https://upload.wikimedia.org/wikipedia/commons/3/32/Giza_pyramid_complex_-_360.jpg) |
+ 360 degree view of Giza pyramid complex, kallerna, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_-_360.jpg) |
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+Here you can view some examples of the [UNESCO World Heritage Sites](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+## Capturing Images
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+## Processing and Stitching
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Publishing
 
-::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Additional Links
 
-What is the output of this command?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+### Theory
 
-:::::::::::::::::::::::: solution 
+Image theory
 
-## Output
+- [Cambridge in Color](https://www.cambridgeincolour.com/)
+-	[Images and content from James Hays, Computer Vision module @ Brown University](http://cs.brown.edu/courses/cs143/)
+<!--
+-	[Comparison of methods](http://www.stporter.com/wp- content/uploads/2016/04/A_Comparison_of_Methods_for_Creating_3D.pdf)
+-	[Tips and Tricks](http://www.agisoft.com/support/tips-tricks/)-->
+
+360 Panoramas
+
+\
+\
+
+### Principles and Guidelines
+
+\
+\
+
+### Other tutorials
+
+\
+\
+
+### Tools and software
+
+- [Exif checker](https://exifinfo.org/)
+
+\
+\
  
-```output
-[1] "This new lesson looks good"
-```
+<!--
 
-:::::::::::::::::::::::::::::::::
+### Additional Links
 
+-	[Images and content from James Hays, Computer Vision module @ Brown University](http://cs.brown.edu/courses/cs143/)
+-	[Comparison of methods](http://www.stporter.com/wp- content/uploads/2016/04/A_Comparison_of_Methods_for_Creating_3D.pdf)
+-	[Tips and Tricks](http://www.agisoft.com/support/tips-tricks/)
+-	[Tips for setup](https://blog.sketchfab.com/how-to-set-up-a-successful-photogrammetry-project/)
+-	[Tips for taking photos](http://www.tested.com/art/makers/460142-art-photogrammetry-how-take-your- photos/)
 
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can include figures generated from R Markdown:
+-->
 
 
-```r
-pie(
-  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
-  init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"), 
-  border = FALSE
-)
-```
 
-<div class="figure" style="text-align: center">
-<img src="fig/introduction-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid"  />
-<p class="caption">Sun arise each and every morning</p>
-</div>
-Or you can use pandoc markdown for static figures with the following syntax:
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
 
-## Math
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
