@@ -181,7 +181,7 @@
 <div class="accordion accordion-flush" id="accordionFlush2">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading2">
-        <a href="introduction.html">1. introduction</a>
+        <a href="introduction.html">1. Introduction</a>
     </div>
 <!--/div.accordion-header-->
         
@@ -244,7 +244,7 @@
     <main id="main-content" class="main-content"><div class="container lesson-content">
         
         
-<section id="aio-introduction"><p>Content from <a href="introduction.html">introduction</a></p>
+<section id="aio-introduction"><p>Content from <a href="introduction.html">Introduction</a></p>
 <hr>
 <p>Last updated on 2024-01-18 |
         
@@ -260,8 +260,8 @@
 <div class="inner">
 <h3 class="card-title">Questions</h3>
 <ul>
-<li>How do you write a lesson using R Markdown and
-<a href="https://carpentries.github.io/sandpaper/" class="external-link">sandpaper</a>?</li>
+<li><p>What is 360 Panorama Capturing?</p></li>
+<li><p>Where and when can we use 360 Panorama ?</p></li>
 </ul>
 </div>
 </div>
@@ -271,150 +271,97 @@
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
 <ul>
-<li>Explain how to use markdown with the new lesson template</li>
-<li>Demonstrate how to include pieces of code, figures, and nested
-challenge blocks</li>
+<li><p>Explains what is 360 Panorama Capturing</p></li>
+<li><p>Shows various scenarios where this technique can be applied to
+capture 360 environments.</p></li>
+<li><p>Showa how to process and stitch 360 photo shooting.</p></li>
+<li><p>Shows How to publish 360 mono panorama</p></li>
 </ul>
+<!-- - Advantages and disadvantages for the use of this techniques.-->
 </div>
 </div>
 </div>
 </div>
 </div>
-<section id="introduction"><h2 class="section-heading">Introduction<a class="anchor" aria-label="anchor" href="#introduction"></a>
+<section id="definition-what"><h2 class="section-heading">Definition (What)<a class="anchor" aria-label="anchor" href="#definition-what"></a>
 </h2>
 <hr class="half-width">
-<p>This is a lesson created via The Carpentries Workbench. It is written
-in <a href="https://pandoc.org/MANUAL.html" class="external-link">Pandoc-flavored Markdown</a>
-for static files (with extension <code>.md</code>) and <a href="https://rmarkdown.rstudio.com/" class="external-link">R Markdown</a> for dynamic files
-that can render code into output (with extension <code>.Rmd</code>).
-Please refer to the <a href="https://carpentries.github.io/sandpaper-docs/" class="external-link">Introduction to The
-Carpentries Workbench</a> for full documentation.</p>
-<p>What you need to know is that there are three sections required for a
-valid Carpentries lesson template:</p>
-<ol style="list-style-type: decimal">
-<li>
-<code>questions</code> are displayed at the beginning of the episode
-to prime the learner for the content.</li>
-<li>
-<code>objectives</code> are the learning objectives for an episode
-displayed with the questions.</li>
-<li>
-<code>keypoints</code> are displayed at the end of the episode to
-reinforce the objectives.</li>
-</ol>
-<div id="challenge-1-can-you-do-it" class="callout challenge">
-<div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
-</div>
-<div id="challenge-1-can-you-do-it" class="callout-inner">
-<h3 class="callout-title">Challenge 1: Can you do it?<a class="anchor" aria-label="anchor" href="#challenge-1-can-you-do-it"></a>
-</h3>
-<div class="callout-content">
-<p>What is the output of this command?</p>
-<div class="codewrapper sourceCode" id="cb1">
-<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
-</h3>
-<pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">paste</span><span class="op">(</span><span class="st">"This"</span>, <span class="st">"new"</span>, <span class="st">"lesson"</span>, <span class="st">"looks"</span>, <span class="st">"good"</span><span class="op">)</span></span></code></pre>
-</div>
-</div>
-</div>
-</div>
-<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
-  <h4 class="accordion-header" id="headingSolution1">Output</h4>
-</button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
-<div class="accordion-body">
-<div class="codewrapper">
-<h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
-</h3>
-<pre class="output" tabindex="0"><code>[1] "This new lesson looks good"</code></pre>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="challenge-2-how-do-you-nest-solutions-within-challenge-blocks" class="callout challenge">
-<div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
-</div>
-<div id="challenge-2-how-do-you-nest-solutions-within-challenge-blocks" class="callout-inner">
-<h3 class="callout-title">Challenge 2: how do you nest solutions within
-challenge blocks?<a class="anchor" aria-label="anchor" href="#challenge-2-how-do-you-nest-solutions-within-challenge-blocks"></a>
-</h3>
-<div class="callout-content">
-
-</div>
-</div>
-</div>
-<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
-  <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
-</button>
-<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
-<div class="accordion-body">
-<p>You can add a line with at least three colons and a
-<code>solution</code> tag.</p>
-</div>
-</div>
-</div>
-</div>
-</section><section id="figures"><h2 class="section-heading">Figures<a class="anchor" aria-label="anchor" href="#figures"></a>
+<p>Panoramic photographs are special photoraphs with the</p>
+<table class="table">
+<colgroup><col width="100%"></colgroup>
+<tbody>
+<tr class="odd">
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Giza_pyramid_complex_-_360.jpg" alt="360 degree view of Giza pyramid complex." class="figure"></td>
+</tr>
+<tr class="even">
+<td>360 degree view of Giza pyramid complex, kallerna, under <a href="https://creativecommons.org/licenses/by-sa/3.0" class="external-link">CC BY-SA 3.0</a>,
+via <a href="https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_-_360.jpg" class="external-link">Wikimedia
+Commons</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Here you can view some examples of the <a href="https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/" class="external-link">UNESCO
+World Heritage Sites</a></p>
+</section><section id="capturing-images"><h2 class="section-heading">Capturing Images<a class="anchor" aria-label="anchor" href="#capturing-images"></a>
+</h2>
+<hr class="half-width"></section><section id="processing-and-stitching"><h2 class="section-heading">Processing and Stitching<a class="anchor" aria-label="anchor" href="#processing-and-stitching"></a>
+</h2>
+<hr class="half-width"></section><section id="publishing"><h2 class="section-heading">Publishing<a class="anchor" aria-label="anchor" href="#publishing"></a>
+</h2>
+<hr class="half-width"></section><section id="additional-links"><h2 class="section-heading">Additional Links<a class="anchor" aria-label="anchor" href="#additional-links"></a>
 </h2>
 <hr class="half-width">
-<p>You can include figures generated from R Markdown:</p>
-<div class="codewrapper sourceCode" id="cb3">
-<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+<div class="section level3">
+<h3 id="theory">Theory<a class="anchor" aria-label="anchor" href="#theory"></a>
 </h3>
-<pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">pie</span><span class="op">(</span></span>
-<span>  <span class="fu">c</span><span class="op">(</span>Sky <span class="op">=</span> <span class="fl">78</span>, <span class="st">"Sunny side of pyramid"</span> <span class="op">=</span> <span class="fl">17</span>, <span class="st">"Shady side of pyramid"</span> <span class="op">=</span> <span class="fl">5</span><span class="op">)</span>, </span>
-<span>  init.angle <span class="op">=</span> <span class="fl">315</span>, </span>
-<span>  col <span class="op">=</span> <span class="fu">c</span><span class="op">(</span><span class="st">"deepskyblue"</span>, <span class="st">"yellow"</span>, <span class="st">"yellow3"</span><span class="op">)</span>, </span>
-<span>  border <span class="op">=</span> <span class="cn">FALSE</span></span>
-<span><span class="op">)</span></span></code></pre>
-</div>
-<figure style="text-align: center"><img src="fig/introduction-rendered-pyramid-1.png" alt="pie chart illusion of a pyramid" class="figure mx-auto d-block"><figcaption>
-Sun arise each and every morning
-</figcaption></figure><p>Or you can use pandoc markdown for static figures with the following
-syntax:</p>
-<p><code>![optional caption that appears below the figure](figure url){alt='alt text for accessibility purposes'}</code></p>
-<figure><img src="https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg" alt="Blue Carpentries hex person logo with no text." class="figure mx-auto d-block"><figcaption>You belong in The Carpentries!</figcaption></figure></section><section id="math"><h2 class="section-heading">Math<a class="anchor" aria-label="anchor" href="#math"></a>
-</h2>
-<hr class="half-width">
-<p>One of our episodes contains <span class="math inline">\(\LaTeX\)</span> equations when describing how to
-create dynamic reports with {knitr}, so we now use mathjax to describe
-this:</p>
-<p><code>$\alpha = \dfrac{1}{(1 - \beta)^2}$</code> becomes: <span class="math inline">\(\alpha = \dfrac{1}{(1 - \beta)^2}\)</span></p>
-<p>Cool, right?</p>
-<div id="keypoints1" class="callout keypoints">
-<div class="callout-square">
-<i class="callout-icon" data-feather="key"></i>
-</div>
-<div class="callout-inner">
-<h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
-</h3>
-<div class="callout-content">
+<p>Image theory</p>
 <ul>
-<li>Use <code>.md</code> files for episodes when you want static
-content</li>
-<li>Use <code>.Rmd</code> files for episodes when you need to generate
-output</li>
-<li>Run <code>sandpaper::check_lesson()</code> to identify any issues
-with your lesson</li>
-<li>Run <code>sandpaper::build_lesson()</code> to preview your lesson
-locally</li>
+<li><a href="https://www.cambridgeincolour.com/" class="external-link">Cambridge in
+Color</a></li>
+<li>
+<a href="http://cs.brown.edu/courses/cs143/" class="external-link">Images and content from
+James Hays, Computer Vision module @ Brown University</a> <!--
+-	[Comparison of methods](http://www.stporter.com/wp- content/uploads/2016/04/A_Comparison_of_Methods_for_Creating_3D.pdf)
+-	[Tips and Tricks](http://www.agisoft.com/support/tips-tricks/)-->
+</li>
 </ul>
+<p>360 Panoramas</p>
+<p><br><br></p>
 </div>
+<div class="section level3">
+<h3 id="principles-and-guidelines">Principles and Guidelines<a class="anchor" aria-label="anchor" href="#principles-and-guidelines"></a>
+</h3>
+<p><br><br></p>
 </div>
+<div class="section level3">
+<h3 id="other-tutorials">Other tutorials<a class="anchor" aria-label="anchor" href="#other-tutorials"></a>
+</h3>
+<p><br><br></p>
 </div>
+<div class="section level3">
+<h3 id="tools-and-software">Tools and software<a class="anchor" aria-label="anchor" href="#tools-and-software"></a>
+</h3>
+<ul>
+<li><a href="https://exifinfo.org/" class="external-link">Exif checker</a></li>
+</ul>
+<p><br><br></p>
+<!--
+
+### Additional Links
+
+-	[Images and content from James Hays, Computer Vision module @ Brown University](http://cs.brown.edu/courses/cs143/)
+-	[Comparison of methods](http://www.stporter.com/wp- content/uploads/2016/04/A_Comparison_of_Methods_for_Creating_3D.pdf)
+-	[Tips and Tricks](http://www.agisoft.com/support/tips-tricks/)
+-	[Tips for setup](https://blog.sketchfab.com/how-to-set-up-a-successful-photogrammetry-project/)
+-	[Tips for taking photos](http://www.tested.com/art/makers/460142-art-photogrammetry-how-take-your- photos/)
+
+-->
 <!-- 
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use. 
  -->
+</div>
 </section></section>
 </div>
     </main>
