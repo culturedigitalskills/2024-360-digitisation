@@ -57,7 +57,7 @@ For this tutorial you will need access to:
 For this workshop we are going to use captured 360 data hosted on our [D4Science](https://services.d4science.org/) repository
 You can download the full data set [here](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) and you can also have quick preview of the final result by copy the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
-**Experiment by Right clicking on one of the image and copy the image address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
+**First try to xxperiment by Right clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
 
 
 |   |   |   |   |   |   |
