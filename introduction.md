@@ -54,15 +54,70 @@ Here you can view some other examples of the [UNESCO World Heritage Sites](https
 
 
 
-## Capturing Images
-There are variuos techniques for capturing 360 panoramas images
+## Capturing Images techniques
+There are different techniques for capturing 360 panoramas images the main ones are:
 
-[Insta360 Pro 2 Shooting App](https://www.insta360.com/download/insta360-pro2)
+### Multiple-shot rotating (Pano Kit)
+With this technique the photographer uses a rotating mechanism such as the [Matterport](https://matterport.com/axis) or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) similar to a turntable so that the camera takes interval timed images, covering the whole 360 horizontal area. For vertical coverage it would be necessary to use a wide angle lens or an [adapter kit](https://www.asteroom.com/en/hardware) so that the whole vertical area is also included in the shots. However this also depend on the brand of the camera.
+Another possibility is to use a DSLR camera with a fish-eye lens in manual mode. There are minimal differences between a manual operated set-up and and automatic ones.
+
+|   |
+|---|
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/7dSl5h0OVjA?si=4AvLjWDz0IXgaq2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | 
+| How to shoot 360 panoramas with a DSLR, under [Metareal](https://www.metareal.com/), via [YouTube](https://www.youtube.com/watch?v=7dSl5h0OVjA) |
+
+\
+
+### Multiple wide angle lenses (360 panorama camera)
+This techniques is used with multiple lenses cameras such as the [Insta360](https://www.insta360.com/product/insta360-pro/), where only one shot is necessary because multiple images of different angles are captured at the same time, covering the whole 360 spherical spectrum.
 
 
 
-> **Shooting tips:**
 
+|   |
+|---|
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/SwzBG5F84Pc?si=JV-zwA1Tx8o8KG4V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | 
+| Using the Insta360 pro 2, under [Joseph Farbrook](https://www.youtube.com/@josephfarbrook), via [YouTube](https://www.youtube.com/watch?v=SwzBG5F84Pc) |
+
+\
+
+
+Below you can see a brief explanation of the differences in cost, quality and time of using one or the other technique.
+
+|   |
+|---|
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/EeXVBV4Tfc0?si=OBRxPKi6cYqgxpdX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | 
+| What is the difference between a 360 Camera and an Asteroom Virtual Tour Kit?, under [Asteroom](https://www.asteroom.com/), via [YouTube](https://www.youtube.com/watch?v=EeXVBV4Tfc0) |
+
+
+\
+\
+
+
+> Shooting tips
+
+> - use high f-number when possibble so that everything is in focus
+
+> - set camera to manual focus so that it does not change between different shots
+
+> - keep the sun on the side of the camera and not directly into the lens.
+
+> - keep the camera straight (portrait shooting is ideal when using the first technique because of the extended coverage.
+
+> - Use a small trypod so not to get it in the shot
+
+> - use a timer
+
+\
+\
+
+## Processing and Stitching
+
+[Insta360 Pro2 Editing Software](https://www.insta360.com/download/insta360-pro2)
+
+[Insta360 Pro2 Manua](https://data.d4science.org/shub/E_ZWY4eFRLK3JxQWdxU0lDb0pBV2VsZStzM0toVG1xRTJZZUVMd1VVZExpcDJHaElpWm41d0JTMFhJaU9Id0owWA==)
+
+## Publishing
 
 ### Types of projections
 We need to remember that when we want to visualise panoramic photographs we go trough the process of capturing 2d flat images of a round space. Later we need to re-map these images onto a round object (or a a cube) to interactively view them. Although for this workshop we will be using an automatic 360 camera like the [Insta360](https://www.insta360.com/), it is quite important to understand the different [**field of view settings **](https://www.cambridgeincolour.com/tutorials/cameras-vs-human-eye.htm#angle-of-view) when using a normal camera.
@@ -77,16 +132,6 @@ There are different types of projection for mapping panorama images onto a flat 
 - Stereographic
 
 The software that we are going use for this workshop uses Equirectangular projection however [**on Cambridge in colour**](https://www.cambridgeincolour.com/tutorials/image-projections.htm) you can further learn about the technicality of the different types of projections. For advanced learning purposes it is also advisable to experiment with a window program called [**PTAssembler**](https://www.tawbaware.com/ptasmblr.htm), which gives full control in creating panorama images from single flat photographs. 
-
-
-
-## Processing and Stitching
-
-[Insta360 Pro2 Editing Software](https://www.insta360.com/download/insta360-pro2)
-
-[Insta360 Pro2 Manua](https://data.d4science.org/shub/E_ZWY4eFRLK3JxQWdxU0lDb0pBV2VsZStzM0toVG1xRTJZZUVMd1VVZExpcDJHaElpWm41d0JTMFhJaU9Id0owWA==)
-
-## Publishing
 
 
 ## Additional Links
