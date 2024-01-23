@@ -151,7 +151,7 @@
 <div class="accordion accordion-flush" id="accordionFlush2">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading2">
-        <a href="introduction.html">1. Introduction</a>
+        <a href="introduction.html">1. 360 Panoramas capturing and processing</a>
     </div><!--/div.accordion-header-->
         
   </div><!--/div.accordion-item-->
@@ -203,7 +203,7 @@
       </div>
       <!-- content for large screens -->
       <div class="d-none d-sm-none d-md-block">
-        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: Introduction... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: 360 Panoramas... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
       <hr></nav><main id="main-content" class="main-content"><h1 class="schedule-heading">Summary and Setup</h1>
       
@@ -227,7 +227,7 @@ equipment:</p>
 <p><strong>Digital specialized 360 camera</strong>: There are
 different commercial cameras for 360 capture however it is preferable to
 use a well established brand that specialice on 360 camera for high
-resolution imaging. some of the brands that offers professinal products
+resolution imaging. Some of the brands that offers professional products
 are:</p>
 <p>Professional (stereo and mono):</p>
 <ul><li>Insta360 <a href="https://www.insta360.com/product/insta360-pro/" class="external-link">Pro</a>, <a href="https://www.insta360.com/product/insta360-pro2/" class="external-link">Pro2</a>, <a href="https://www.insta360.com/product/insta360-titan/" class="external-link">Titan</a>
@@ -247,9 +247,16 @@ GO</a>
 at the <a href="https://matterport.com/en-gb" class="external-link">Matterport</a> website
 which also offer a range of other solutions and software.</li>
 </ul></li>
-</ul><p><br></p>
-<ul><li><p><strong>Tripod</strong> must be used because 360 photo shooting
+<li><p><strong>Tripod</strong> must be used because 360 photo shooting
 needs to be stable otherwise stitching errors my occur.</p></li>
+</ul></div>
+<div class="section level3">
+<h3 id="software">Software<a class="anchor" aria-label="anchor" href="#software"></a></h3>
+<p>For this tutorial you will need access to:</p>
+<ul><li><p><strong>Image processing software</strong>: <a href="https://www.rawtherapee.com/" class="external-link">Raw Therapee</a> for batch
+converting raw images, <a href="https://www.gimp.org/" class="external-link">GIMP</a> which
+allows to manipulate and post-process textures generated after the model
+has been created.</p></li>
 <li>
 <p><strong>Stitching Software</strong></p>
 <p>Every camera has its own software for processing and stitching
@@ -258,8 +265,7 @@ cameras, others are more open and can import different formats used from
 a various range of camera. FOr this workshop we will use the <a href="https://www.insta360.com/download/insta360-pro2" class="external-link">Insta360 Pro 2
 Control App and Stitcher</a>.</p>
 </li>
-</ul><p><br></p>
-<ul><li>
+<li>
 <p><strong>Viewing software online or self-hosted</strong></p>
 <ul><li>
 <a href="https://www.google.com/streetview/" class="external-link">Google Streetview</a>
@@ -271,17 +277,6 @@ or <a href="https://pannellum.org/download/" class="external-link">self- hosted<
 </ul><p><br></p>
 </div>
 <div class="section level3">
-<h3 id="software-setup">Software Setup<a class="anchor" aria-label="anchor" href="#software-setup"></a></h3>
-<p>For this tutorial you will need access to:</p>
-<ul><li><p><strong>Image processing software</strong>: <a href="https://www.rawtherapee.com/" class="external-link">Raw Therapee</a> for batch
-converting raw images from camera to use in photogrammetry software, <a href="https://www.gimp.org/" class="external-link">GIMP</a> which allows to manipulate and
-post-process textures generated after the model has been
-created.</p></li>
-<li><p><strong>Stitching software</strong>: <a href="https://www.insta360.com/download/insta360-pro2" class="external-link">Insta360 Pro 2
-Control App and Stitcher</a>.</p></li>
-</ul><p><br><br></p>
-</div>
-<div class="section level3">
 <h3 id="examples-data-sets">Examples Data Sets<a class="anchor" aria-label="anchor" href="#examples-data-sets"></a></h3>
 <p>For this workshop we are going to use captured 360 data hosted on our
 <a href="https://services.d4science.org/" class="external-link">D4Science</a> repository You
@@ -289,7 +284,7 @@ can download the full data set <a href="https://data.d4science.org/shub/E_KzdpRz
 and you can also have quick preview of the final result by copy the link
 of each image onto the <a href="https://pannellum.org/documentation/overview/tutorial/" class="external-link">Pannellum
 360 viewer</a> like the example below.</p>
-<p><strong>First try to xxperiment by Right clicking on one of the image
+<p><strong>First try to experiment by Right clicking on one of the image
 and copy the image URL address into the URL box of the <a href="https://pannellum.org/documentation/overview/tutorial/" class="external-link">viewer</a></strong></p>
 <table style="width:100%;" class="table"><colgroup><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"><col width="16%"></colgroup><tbody><tr class="odd"><td><img src="https://data.d4science.org/shub/E_dUl6d3g0ajlLZ01uUW5PMzVLQkF2N3h6dUlBdDgxcXliVUZHeTF5ZTdzNTIxTFRZNzVPRVZRNUU3L1dLdWJNMw==" alt="St Mary’s Roman Catholic Church Photo 1" class="figure"></td>
 <td><img src="https://data.d4science.org/shub/E_QVloZGdYcGdQUE02TSs0dXIvY2ROS01oay9VcWRoem0xdElVRkJhc1BNQ09LOVNOaVN0aWEwK0g1T1BBZWxUWA==" alt="St Mary’s Roman Catholic Church Photo 2" class="figure"></td>
@@ -373,7 +368,7 @@ any links that you are not going to use.
       </div>
       <!-- content for large screens -->
       <div class="d-none d-sm-none d-md-block">
-        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: Introduction... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: 360 Panoramas... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
     </nav></div>
 <!-- END  : inst/pkgdown/templates/content-syllabus.html -->
