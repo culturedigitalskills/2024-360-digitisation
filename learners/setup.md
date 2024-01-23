@@ -24,6 +24,8 @@ For 360 panorama capturing and processing you will need the following equipment:
 
 -	**Tripod** must be used because 360 photo shooting needs to be stable otherwise stitching errors my occur.
 
+-	[**Insta360 Pro 2 Shooting App**](https://www.insta360.com/download/insta360-pro2)
+
 
 
 ### Software
