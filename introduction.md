@@ -131,7 +131,7 @@ The basic step to connect the Insta360 Pro2 camera can be followed on the video 
 <!--[Insta360 Pro2 Editing Software](https://www.insta360.com/download/insta360-pro2)-->
 
 ### Stitching the images
-The process of stitching images after have been acquired and downloaded to the computer also differ from software to software. Although is not compulsory it is a good practice to learn the software that comes with the camera, especially when the camera is a professional one.
+The process of stitching images after have been acquired and downloaded to the computer also differ from software to software. Although not compulsory it is a good practice to learn the software that comes with the camera, especially when the camera is a professional one.
 
 |   |
 |---|
@@ -151,13 +151,13 @@ For a full process you can also follow the video below
 
 \
 
-## Vieweing and publishing
+## Viewing and publishing
 There are several methods for viewing and publishing 360 panoramas images:
 
 - **Flat panoramic images (no distortion - orthogonal)**
 
- Usually these images are considered panoramic view on the horizontal axis but [cannot be joined to form a full 360 spherical representation](https://panoviewer.toolforge.org/#Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg). They are useful for building measuring purposes and landscape representations. All modern compact cameras they have a mode to produce this kind of images by automatically stitching several photos taken by 
-The amount of distortion and a good stitching result will depend on the lens used. With a telephoto lens it will be required more images to cover the full 360 horizontal area. With a more wide angle lens less photos will be required to cover the same amount however it will result im more distortion and in less accurate stitching result.
+ Usually these images are considered panoramic view on the horizontal axis but [cannot be joined to form a full 360 spherical representation](https://panoviewer.toolforge.org/#Panorama_of_the_courtyard_of_the_Great_Mosque_of_Kairouan.jpg). They are useful for building measuring purposes and landscape representations. All modern compact cameras they have a mode to produce this kind of images by automatically stitching several photos taken.
+The amount of distortion and a good stitching result will depend on the lens used. Whith a telephoto lens there will be necessary more images in order to cover the full 360 horizontal area. With a wider angle lens less photos will be required to cover the same amount of area, however the result can present more distortion errors and less accurate stitching result.
 
 |   |
 |---|
@@ -169,7 +169,7 @@ The amount of distortion and a good stitching result will depend on the lens use
  
 - **Flat 360 panoramic images (with distortion)**
 
-These are the unwrapped version of the final images that can then be mapped onto a [360 viewer](https://panoviewer.toolforge.org/#Nebel_Schienen_Panorama.jpg)
+These are the unwrapped version of the final images resulting by stitching the photograaph taken with a wide angle lens. They can be fully mapped onto a [360 viewer](https://panoviewer.toolforge.org/#Nebel_Schienen_Panorama.jpg)
 
 |   |
 |---|
@@ -180,7 +180,7 @@ These are the unwrapped version of the final images that can then be mapped onto
 
 - **Fish-eye lenses images**
 
-These are the original files that are taken with a fish-eye lens usually they go up to 180 degree of field of view and can be mapped onto a 3d viewer only after processing them with a stitching software  or with a viewer that can project spherical 360 images. In any case they need more then one image in order to cover the full 360 degree spectrum.
+These are the original files that are taken with a fish-eye lens usually they go up to 180 degree of field of view and can be mapped onto a 3d viewer only after processing them with a stitching software  or with a viewer that can project spherical 360 images. In any case they need more then one image in order to cover the full 360 degree spherical spectrum.
 
 |   |
 |---|
@@ -205,7 +205,7 @@ To view your own produced image please upload them to a site that supports [CORS
 
 ### Types of projections
 
-We need to remember that when we want to visualise panoramic photographs we go trough the process of capturing 2d flat images of a round space. Later we need to re-map these images onto a round object (or a a cube) to interactively view them. Although for this workshop we are using an automatic 360 camera, it is quite important to understand the different [**field of view settings**](https://www.cambridgeincolour.com/tutorials/cameras-vs-human-eye.htm#angle-of-view) when using a normal camera.
+We need to remember that when we want to visualise panoramic photographs we go trough the process of capturing 2d flat images of a round space. Later we will need to re-map these images onto a round object (or a a cube) to interactively view them. Although for this workshop we are using an automatic 360 camera, it is quite important to understand the different [**field of view settings**](https://www.cambridgeincolour.com/tutorials/cameras-vs-human-eye.htm#angle-of-view) when using a normal camera.
 There are different types of projection for mapping panorama images onto a flat surface. The well comprehensive website [Cambridge In Color](https://www.cambridgeincolour.com/tutorials/image-projections.htm) as a list of different projection types:
 
 - Equirectangular
