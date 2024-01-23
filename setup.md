@@ -11,7 +11,7 @@ the data sets the Learner needs to have installed.
 
 For 360 panorama capturing and processing you will need the following equipment:
 
-- **Digital specialized 360 camera**: There are different commercial cameras for 360 capture however it is preferable to use a well established brand that specialice on 360 camera for high resolution imaging. some of the brands that offers professinal products are:
+- **Digital specialized 360 camera**: There are different commercial cameras for 360 capture however it is preferable to use a well established brand that specialice on 360 camera for high resolution imaging. Some of the brands that offers professional products are:
 
   Professional (stereo and mono):
   * Insta360 [Pro](https://www.insta360.com/product/insta360-pro/), [Pro2](https://www.insta360.com/product/insta360-pro2/), [Titan](https://www.insta360.com/product/insta360-titan/)
@@ -22,16 +22,19 @@ For 360 panorama capturing and processing you will need the following equipment:
   Commercial (stereo and mono):
   * The list of commercial cameras that capture 360 photos and video (stereo and mono) is quite extesens. Comprehensible [list](https://matterport.com/cameras/360-cameras) can be found at the [Matterport](https://matterport.com/en-gb) website which also offer a range of other solutions and software.
 
-\
-
 -	**Tripod** must be used because 360 photo shooting needs to be stable otherwise stitching errors my occur.
 
+
+
+### Software
+
+For this tutorial you will need access to:
+
+- **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images, [GIMP](https://www.gimp.org/) which allows to manipulate and post-process textures generated after the model has been created. 
 
 - **Stitching Software**
   
   Every camera has its own software for processing and stitching images. Some of them are proprietary and works only with its own cameras, others are more open and can import different formats used from a various range of camera. FOr this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2). 
-
-\
 
 - **Viewing software online or self-hosted**
 
@@ -41,23 +44,12 @@ For 360 panorama capturing and processing you will need the following equipment:
     
 \
 
-### Software Setup
-
-For this tutorial you will need access to:
-
-- **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images from camera to use in photogrammetry software, [GIMP](https://www.gimp.org/) which allows to manipulate and post-process textures generated after the model has been created. 
-
-- **Stitching software**: [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2).
-
-\
-\
-
 ### Examples Data Sets
 
 For this workshop we are going to use captured 360 data hosted on our [D4Science](https://services.d4science.org/) repository
 You can download the full data set [here](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) and you can also have quick preview of the final result by copy the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
-**First try to xxperiment by Right clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
+**First try to experiment by Right clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
 
 
 |   |   |   |   |   |   |

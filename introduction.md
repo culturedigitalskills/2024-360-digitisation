@@ -1,22 +1,22 @@
 ---
-title: 'Introduction'
+title: '360 Panoramas capturing and processing'
 teaching: 10
 exercises: 2
 ---
 
 
 :::::::::::::::::::::::::::::::::::::: questions 
-- What is 360 Panorama Capturing?
+- What is 360 Panoramas?
 
-- When do we use 360 Panorama?
+- When do we use 360 Panoramas?
 
--How 360 panoramas are cuptured and processed?
+- How 360 panoramas are captured and processed?
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
-- Explains what is 360 Panorama Capturing.
+- Explains what is 360 Panoramas.
 
 - Shows various scenarios where this technique can be applied to capture 360 environments.
 
@@ -50,7 +50,21 @@ exercises: 2
 
 Here you can view some other examples of the [UNESCO World Heritage Sites](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/)
 
-## Types of projections
+
+
+
+
+## Capturing Images
+There are variuos techniques for capturing 360 panoramas images
+
+[Insta360 Pro 2 Shooting App](https://www.insta360.com/download/insta360-pro2)
+
+
+
+> **Shooting tips:**
+
+
+### Types of projections
 We need to remember that when we want to visualise panoramic photographs we go trough the process of capturing 2d flat images of a round space. Later we need to re-map these images onto a round object (or a a cube) to interactively view them. Although for this workshop we will be using an automatic 360 camera like the [Insta360](https://www.insta360.com/), it is quite important to understand the different [**field of view settings **](https://www.cambridgeincolour.com/tutorials/cameras-vs-human-eye.htm#angle-of-view) when using a normal camera.
 There are different types of projection for mapping panorama images onto a flat surface. The well comprehensive website [Cambridge In Color](https://www.cambridgeincolour.com/tutorials/image-projections.htm) as a list of different projection types:
 
@@ -66,14 +80,11 @@ The software that we are going use for this workshop uses Equirectangular projec
 
 
 
-## Capturing Images
-There are variuos techniques for capturing 360 panoramas images
-
-
-
-> **Shooting tips:**
-
 ## Processing and Stitching
+
+[Insta360 Pro2 Editing Software](https://www.insta360.com/download/insta360-pro2)
+
+[Insta360 Pro2 Manua](https://data.d4science.org/shub/E_ZWY4eFRLK3JxQWdxU0lDb0pBV2VsZStzM0toVG1xRTJZZUVMd1VVZExpcDJHaElpWm41d0JTMFhJaU9Id0owWA==)
 
 ## Publishing
 
