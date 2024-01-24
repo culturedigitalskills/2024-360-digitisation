@@ -2,8 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+# 360 Digitisation 
 
-
-[workbench]: https://carpentries.github.io/sandpaper-docs
+![&copy; Felix Mizioznikov AdobeStock](episodes/fig/AdobeStock_198205785.jpeg){alt="360 image"}
 
