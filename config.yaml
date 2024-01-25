@@ -60,6 +60,11 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 # Order of episodes in your lesson
 episodes:
 - introduction.Rmd
+- capturing-images.Rmd
+- processing-stitching.Rmd
+- viewing-publishing.Rmd
+- additional-links.Rmd
+
 
 # Information for Learners
 learners:
