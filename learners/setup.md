@@ -9,9 +9,9 @@ the data sets the Learner needs to have installed.
 
 ### Equipment
 
-For 360 panorama capturing and processing you will need the following equipment:
+For spherical panorama capturing and processing you will need the following equipment:
 
-- **Digital specialized 360 camera**: There are different commercial cameras for 360 capture however it is preferable to use a well established brand that specialice on 360 camera for high resolution imaging. Some of the brands that offers professional products are:
+- **Digital specialized spherical camera**: There are different commercial cameras for spherical photo capture however it is preferable to use a well established brand that specialize on spherical camera for high resolution imaging. Some of the brands that offers professional products are:
 
   Professional (stereo and mono):
   * Insta360 [Pro](https://www.insta360.com/product/insta360-pro/), [Pro2](https://www.insta360.com/product/insta360-pro2/), [Titan](https://www.insta360.com/product/insta360-titan/)
@@ -20,17 +20,19 @@ For 360 panorama capturing and processing you will need the following equipment:
   * Matterport [Pro3](https://matterport.com/en-gb/pro3), [Pro2](https://matterport.com/en-gb/pro2)
   
   Commercial (stereo and mono):
-  * The list of commercial cameras that capture 360 photos and video (stereo and mono) is quite extesens. Comprehensible [list](https://matterport.com/cameras/360-cameras) can be found at the [Matterport](https://matterport.com/en-gb) website which also offer a range of other solutions and software.
+  * The list of commercial cameras that capture spherical panorama photos and video (stereo and mono) is quite extesens. Comprehensible [list](https://matterport.com/cameras/360-cameras) can be found at the [Matterport](https://matterport.com/en-gb) website which also offer a range of other solutions and software.
 
--	**Tripod** must be used because 360 photo shooting needs to be stable otherwise stitching errors my occur.
+-	**Tripod** must be used because spherical panorama photo shooting needs to be stable otherwise stitching errors my occur.
 
--	[**Insta360 Pro 2 Shooting App**](https://www.insta360.com/download/insta360-pro2)
+
 
 
 
 ### Software
 
 For this tutorial you will need access to:
+
+-	[**Insta360 Pro 2 Shooting App**](https://www.insta360.com/download/insta360-pro2)
 
 - **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images, [GIMP](https://www.gimp.org/) which allows to manipulate and post-process textures generated after the model has been created. 
 
@@ -48,16 +50,16 @@ For this tutorial you will need access to:
 
 ### Examples Data Sets
 
-For this workshop we are going to use captured 360 data hosted on our [D4Science](https://services.d4science.org/) repository
-You can download the full data set [here](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) and you can also have quick preview of the final result by copy the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
+For this workshop we are going to use data captured from the practical session and already captured data hosted on our [D4Science](https://services.d4science.org/) repository
+You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by coping the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
-**First try to experiment by Right clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
+**First try to experiment by Right-clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
 
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 | ![St Mary's Roman Catholic Church Photo 1](https://data.d4science.org/shub/E_dUl6d3g0ajlLZ01uUW5PMzVLQkF2N3h6dUlBdDgxcXliVUZHeTF5ZTdzNTIxTFRZNzVPRVZRNUU3L1dLdWJNMw==) | ![St Mary's Roman Catholic Church Photo 2](https://data.d4science.org/shub/E_QVloZGdYcGdQUE02TSs0dXIvY2ROS01oay9VcWRoem0xdElVRkJhc1BNQ09LOVNOaVN0aWEwK0g1T1BBZWxUWA==) | ![St Mary's Roman Catholic Church Photo 3](https://data.d4science.org/shub/E_WStiaGJIM1lIa0VodFR5OTV2OU5OencyUGRvNzVFY3plaTRha1YzdWlXTkNrQ2hYSys2Y2pzWHJuUU9GLytxag==) | ![St Mary's Roman Catholic Church Photo 4](https://data.d4science.org/shub/E_TXNJam1LdGlKdDREVHIrYXRudHJwMjVWV0NpSTBPMTFuaW0xQ2pSRWtuMW9ua3YwaEoxNi9DNXpjNVkyUGdMSw==) | ![St Mary's Roman Catholic Church Photo 5](https://data.d4science.org/shub/E_cDk0WWN1d0xGYnZmRDZRN0lxNjMvUThpVzRzUGNzVGNEMVNqM3h3akZjQW02NFYra2JmMEpUUytsR25FN3U1Ug==) | ![St Mary's Roman Catholic Church Photo 6](https://data.d4science.org/shub/E_WTVUOXczWC9aRFhKUTVKSVJKQ3F1bjVDM3BiWjROMFMwTnJBemtneXJVckl1ZTJHRjB6S29xWWtBOFFDWlNDTQ==) |
-| [Photo1 DATA SET](https://data.d4science.org/shub/E_ZUxzNHBhMi9Hb2ZINnZkNU1pQzA5K1dJMm4rL2VTY1JURkttbEoySGJzMGNUU2lWV0k2MGQwY1JhRXYzamlweQ==) | [Photo2 DATA SETS](https://data.d4science.org/shub/E_ZXVQcnVKS3l3Qjg5S2N1MmNSdDlWanIvQkt6djVaV1RrS2pYOTlkUGlaQjNLTEhadkZSbGZZaDA5SVVwZHovdQ==) | [Photo3 DATA SET](https://data.d4science.org/shub/E_ZWNWdHFzam95UEp1cm5PZEFMSWhNTlE5allSekNNVi9Ya2VHNWp4eEVRSXZWeEdyM3FXZU5VNXpvWTZRNGhUYg==) | [Photo4 DATA SET](https://data.d4science.org/shub/E_ZE5TR2xxUzhqY2RpVGR2WUhTLy93S3cyNkFEbmE0Z1hQK3ZiOEViZ3p0bjd0ZVk2RDZ1aFRWckpZNVM3RGRxSw==) | [Photo5 DATA SET](https://data.d4science.org/shub/E_MXYrWWxYZVZnRlRaZjF6bno5dlBHL0pVN3p3VEpVUmN5aFUxbHNIdG95ZVVseVhOZUJZSzVZS0FsVVRVMC90MA==) | [Photo6 DATA SET](https://data.d4science.org/shub/E_cnJ6VExPd01NL3pjT05Cc3daNmRUM2Jxdm1YVkpzVEdTajVsS1pVLzl5by9DcFRjRHZOMTAxbUI3RHZOYkkzTg==) |
+| [Photo1 DATA SET](https://data.d4science.org/shub/E_ZUxzNHBhMi9Hb2ZINnZkNU1pQzA5K1dJMm4rL2VTY1JURkttbEoySGJzMGNUU2lWV0k2MGQwY1JhRXYzamlweQ==) | [Photo2 DATA SET](https://data.d4science.org/shub/E_ZXVQcnVKS3l3Qjg5S2N1MmNSdDlWanIvQkt6djVaV1RrS2pYOTlkUGlaQjNLTEhadkZSbGZZaDA5SVVwZHovdQ==) | [Photo3 DATA SET](https://data.d4science.org/shub/E_ZWNWdHFzam95UEp1cm5PZEFMSWhNTlE5allSekNNVi9Ya2VHNWp4eEVRSXZWeEdyM3FXZU5VNXpvWTZRNGhUYg==) | [Photo4 DATA SET](https://data.d4science.org/shub/E_ZE5TR2xxUzhqY2RpVGR2WUhTLy93S3cyNkFEbmE0Z1hQK3ZiOEViZ3p0bjd0ZVk2RDZ1aFRWckpZNVM3RGRxSw==) | [Photo5 DATA SET](https://data.d4science.org/shub/E_MXYrWWxYZVZnRlRaZjF6bno5dlBHL0pVN3p3VEpVUmN5aFUxbHNIdG95ZVVseVhOZUJZSzVZS0FsVVRVMC90MA==) | [Photo6 DATA SET](https://data.d4science.org/shub/E_cnJ6VExPd01NL3pjT05Cc3daNmRUM2Jxdm1YVkpzVEdTajVsS1pVLzl5by9DcFRjRHZOMTAxbUI3RHZOYkkzTg==) |
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
