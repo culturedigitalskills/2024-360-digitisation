@@ -1,5 +1,5 @@
 ---
-title: 'Viewing Practical Exercise'
+title: 'Practical Exercise for Viewer 360&deg; photography'
 teaching: 0
 exercises: 40
 ---
