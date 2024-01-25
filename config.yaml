@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: '360 Digitisation'
+title: 'Digitisation with 360 Degrees Photography'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2024-01-18'
@@ -60,11 +60,14 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 # Order of episodes in your lesson
 episodes:
 - introduction.Rmd
+- examples-in-cultural-heritage.Rmd
 - capturing-images.Rmd
+- difference-between-techniques.Rmd
+- 360-practical-exercise.Rmd
 - processing-stitching.Rmd
 - viewing-publishing.Rmd
+- viewing-practical-exercise.Rmd
 - additional-links.Rmd
-
 
 # Information for Learners
 learners:
