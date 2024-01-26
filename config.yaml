@@ -61,8 +61,8 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 episodes:
 - introduction.Rmd
 - examples-in-cultural-heritage.Rmd
-- capturing-images.Rmd
 - difference-between-techniques.Rmd
+- camerasetup-acquisition.Rmd
 - 360-practical-exercise.Rmd
 - processing-stitching.Rmd
 - viewing-publishing.Rmd
