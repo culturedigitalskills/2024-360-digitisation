@@ -34,7 +34,7 @@ For this tutorial you will need access to:
 
 -	[**Insta360 Pro 2 Shooting App**](https://www.insta360.com/download/insta360-pro2)
 
-- **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images, [GIMP](https://www.gimp.org/) which allows to manipulate and post-process textures generated after the model has been created. 
+- **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images. 
 
 - **Stitching Software**
   

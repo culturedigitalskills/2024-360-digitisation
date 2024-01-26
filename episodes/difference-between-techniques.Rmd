@@ -22,19 +22,19 @@ NICOLA PLEASE: add more analytical and comprehensive text on how each technique 
 
 ## Multiple-shot rotating (Pano Kit)
 
-This technique uses a regular DSLR camera and a rotating mechanism such as the [Matterport](https://matterport.com/axis) or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow).
+This technique uses a regular DSLR camera, a compact camera or a mobile phone, and a rotating mechanism such as the [Matterport](https://matterport.com/axis) for DSLR cameras or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) for mobile phones.
  
-The camera camera takes interval timed images, covering the whole 360 horizontal and vertical area. 
+Wichever device you use the idea is to take interval timed photographs, covering the whole 360 horizontal and vertical area. 
 
 For vertical coverage it would be necessary one of the followings:
 
-- to use a wide 180 angle lens in portrait mode
+- to use a wide angle lens in portrait mode for DSLR cameras
 
-- to use an [adapter kit](https://www.asteroom.com/en/hardware)
+- to use an [adapter kit](https://www.asteroom.com/en/hardware) for mobile phones
 
-- to shoot 4 more tilted photographs to the top and 4 to the bottom at 90 degrees (or 3 at 60 degrees)
+- If not using a wide angle lens it will be necessary to shoot 4 more photographs at 90 degrees (or 3 at 60 degrees) tilted to the top and to the bottom
 
-This is a general guideline for shooting with regular DSLR cameras and a good rule is to overlap the photos for at least **1/3** of each sequential image. However there are many different lenses for DSLR cameras and it is important to know their characteristics, especially the FOV(Field of View). 
+This is a general guideline for shooting with regular cameras. A good rule is to overlap the photos for at least **1/3** of each sequential image. However there are many different lenses for DSLR cameras and it is important to know their characteristics, especially the FOV(Field of View) settings. 
 
 - [**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline of choosing the right amount of overlap depending on the field of view of the lenses.
 
