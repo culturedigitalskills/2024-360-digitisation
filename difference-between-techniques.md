@@ -1,20 +1,96 @@
 ---
-title: 'Difference between Techniques'
+title: 'Techniques for Capturing Images'
 teaching: 15
 exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Explain differences between different techniques 
-and the variations in hardware.
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+- Explain how different techniques are available for 360 degrees photography
+
+- Cover camera setups for photography
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--
+<span style="color:red">
+NICOLA PLEASE: add more analytical and comprehensive text on how each technique works and how to capture images with it? 
+</span>
+ -->
+
+## Multiple-shot rotating (Pano Kit)
+
+This technique uses a regular DSLR camera and a rotating mechanism such as the [Matterport](https://matterport.com/axis) or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow).
+ 
+The camera camera takes interval timed images, covering the whole 360 horizontal and vertical area. 
+
+For vertical coverage it would be necessary one of the followings:
+
+- to use a wide 180 angle lens in portrait mode
+
+- to use an [adapter kit](https://www.asteroom.com/en/hardware)
+
+- to shoot 4 more tilted photographs to the top and 4 to the bottom at 90 degrees (or 3 at 60 degrees)
+
+This is a general guideline for shooting with regular DSLR cameras and a good rule is to overlap the photos for at least **1/3** of each sequential image. However there are many different lenses for DSLR cameras and it is important to know their characteristics, especially the FOV(Field of View). 
+
+- [**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline of choosing the right amount of overlap depending on the field of view of the lenses.
+
+- [**On this page**](http://learn360photography.com/) you can find a list of kit parts for shooting with this technique
+
+- Below is a comprehensive video of the whole process
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dSl5h0OVjA?si=4AvLjWDz0IXgaq2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+How to shoot 360 panoramas with a DSLR, under [Metareal](https://www.metareal.com/), via [YouTube](https://www.youtube.com/watch?v=7dSl5h0OVjA) 
+
+
+
+
+## Multiple wide-angle lenses (spherical panorama camera/360 camera)
+
+This techniques uses a camera with one or more [**fish-eye lenses**](https://en.wikipedia.org/wiki/Fisheye_lens) such as the [Insta360](https://www.insta360.com/product/insta360-pro/).
+
+- Only one shot is necessary because multiple images of different angles are captured at the same time, covering the whole 360 spherical spectrum and overlapping each other. 
+
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|![St Mary's Roman Catholic Church Photo 1](fig/origin_3_1.jpg){width="120"  alt="360 image 1"} | ![St Mary's Roman Catholic Church Photo 2](fig/origin_3_2.jpg){width="120"  alt="360 image 2"} | ![St Mary's Roman Catholic Church Photo 3](fig/origin_3_3.jpg){width="120"  alt="360 image3"} | ![St Mary's Roman Catholic Church Photo 4](fig/origin_3_4.jpg){width="120"  alt="360 image 4"} | ![St Mary's Roman Catholic Church Photo 5](fig/origin_3_5.jpg){width="120"  alt="360 image 5"} | ![St Mary's Roman Catholic Church Photo 6](fig/origin_3_6.jpg){width="120"  alt="360 image 6"} |
+
+
+**Spherical unprocessed photo** of [St Mary's Roman Catholic Church](https://maps.app.goo.gl/giyXNK7kP4z5ohUK8) Brighton (UK), DSVMC University of Brighton, under [DSVMC](https://culturedigitalskills.org/)
+
+
+The images are then processed with stitching software to produce a spherical single distorted image. 
+
+
+![Spherical distorted processed photo of [St Mary's Roman Catholic Church](https://maps.app.goo.gl/giyXNK7kP4z5ohUK8) Brighton (UK), DSVMC University of Brighton, under [DSVMC](https://culturedigitalskills.org/)](fig/thumbnail.jpg){width="900"  alt="360 image thumb"}
+
+
+
+The algorithm used by many cameras such as the insta360 Pro 2 is called [dense optical flow](https://www.researchgate.net/publication/311851755_A_Unified_Framework_for_Street-View_Panorama_Stitching)
+
+![The image overlap regions of six geometrically aligned and warped images in the 360 @BULLET street-view panoramic view where the black, the green and the red stand for the no-overlapped, two-overlapped, multi-overlapped image regions, respectively. Figure 3 - available via license: [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/deed.en)](https://www.researchgate.net/publication/311851755/figure/fig1/AS:442520124563456@1482516427768/The-image-overlap-regions-of-six-geometrically-aligned-and-warped-images-in-the-360.png)
+
+
+\
+
+<!--- This image is under copyright - USE ANOTHER ONE
+![Disposition of two Kodak SP360 video cameras. Each camera has a 360° (N-S-E-W) plus 214° angle of view. As both cameras are placed opposite to each other, there is a 34° overlap in the images and a ≈ 50-cm blind spot between the cameras., Juliana López Marulanda, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Researchgate Commons](https://www.researchgate.net/figure/Disposition-of-two-Kodak-SP360-video-cameras-Each-camera-has-a-360-N-S-E-W-plus-214_fig2_314880330)](https://www.researchgate.net/profile/Juliana-Lopez-Marulanda/publication/314880330/figure/fig2/AS:471538920103938@1489435047234/Disposition-of-two-Kodak-SP360-video-cameras-Each-camera-has-a-360-N-S-E-W-plus-214.png) 
+ 
+
 
 <span style="color:red">
 NICOLA PLEASE add textual information on this to explain to people why and how these techniques  are different and then add the video as well to find out further information. The video is not enough and we have to have this explicitly written as well. 
 </span>
+-->
 
+> This two techniques differs consistently: while the first needs more time to set-up but is achieved with cheaper equipment, the latter has the advantages to be faster in the [**setup and acquisition**](camerasetup-acquisition.Rmd) phase but with generally more elevated costs.
+
+\
 
 
 Below you can see a brief explanation of the differences in cost, quality and time of using one or the other technique.
@@ -25,3 +101,4 @@ Below you can see a brief explanation of the differences in cost, quality and ti
 
 
 What is the difference between a 360 Camera and an Asteroom Virtual Tour Kit?, under [Asteroom](https://www.asteroom.com/), via [YouTube](https://www.youtube.com/watch?v=EeXVBV4Tfc0).
+
