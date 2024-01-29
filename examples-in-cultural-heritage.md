@@ -10,14 +10,19 @@ exercises: 0
 photography of Cultural Heritage
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
+<!--
 <span style="color:red">
 NICOLA PLEASE: Create a list similar to this:https://universityofbrighton.github.io/2023-exhibition-design/more-information.html
 </span>
+-->
+Spherical panorama images have entered the Cultural Heritage realm since the beginning of this technique. This is because these photographs give the viewer the possibility to explore the surrounding of a certain environment with ease. Spherical panorama images are in fact one of the best tool to visualise complete representation of a cultural environment at a specific point of where the photographs is taken from. This is also enhanced when associated with Virtual Tours (not to be confused with 3D virtual tours which come from video-games techniques). In this section however we will concentrate only on a single spherical photograph digitaisation because the creation and the publication of 360 virtual tours is a separate subject. The article:[*Panoramic 360◦ Sphere: Digitization and Mobilization of Cultural Heritage Site and Story Visualizing of History for Cultural Tourism, by Ylenia Cariani*](https://www.silvher.eu/2021/01/04/panoramic-360%E2%97%A6-sphere-digitization-and-mobilization-of-cultural-heritage-site-and-story-visualizing-of-history-for-cultural-tourism/) highlights why digitasation with spherical panorama has its benefit especially for Cultural Tourism
+
+Here you can view some examples of the [UNESCO World Heritage Sites](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/).
+
+A list of project that used a this technique as digitasation method is provided below:
 
 
 
-Here you can view some other examples of the [UNESCO World Heritage Sites](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/).
 
 
 
