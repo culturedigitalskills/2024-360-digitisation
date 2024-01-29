@@ -103,8 +103,8 @@ The second technique for taking spherical panorama photographs, as we saw previo
 
 - Keep the sun on the side of the camera and do not position the camera directly looking at the sun.
 
-- In all cases use a remote control or a dedicated app for taking photographs to avoid camera movemets.
+- In all cases use a remote control or a dedicated app for taking photographs to avoid camera movements.
 
-- alwyas try to acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with softwre such as [Raw Therapee](https://www.rawtherapee.com/)
+- Alwyas try to acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with softwre such as [Raw Therapee](https://www.rawtherapee.com/)
 
 
