@@ -15,11 +15,11 @@ the Insta360 Pro2 stitching software.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
-
+<!--
 <span style="color:red">
 NICOLA PLEASE explain the process rather than including a video.
 </span>
-
+-->
 
 ## Dowloading and organizing images onto the computer
 
