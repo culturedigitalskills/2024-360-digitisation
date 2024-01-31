@@ -1,5 +1,5 @@
 ---
-title: 'Practical Exercise for Viewer 360&deg; photography'
+title: 'Practical Exercise for using a viewer of spherical panorama images'
 teaching: 0
 exercises: 40
 ---

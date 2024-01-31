@@ -29,7 +29,7 @@ Once the images are acquired they will need to be saved on local disk in order t
 In this workshop we are going to use the Insta360 Pro2 [**stiching software**](https://www.insta360.com/download/insta360-pro2). 
 
 
-For other types of 360 cameras please follow the specific instructions of each camera, however it will be usually  sufficient to download the images by connecting the camera via usb or by extracting the SD card from the camera and inserting it on a card reader of the PC.
+For other types of 360 cameras please follow the specific instructions of each camera, however it will be usually sufficient to download the images by connecting the camera via usb. Onother option is to extract the SD card from the camera and inserting it on a card reader of the PC.
 
 Using a suitable name which reflects your project, transfer all images into a folder.
 
@@ -43,7 +43,7 @@ Within this folder, create another one named images. Copy the images from the ca
 
  - Start by going to storage device on the camera
 
- - Connect the camera with the LAN cable to the computer (in this case if you also need internet connection pleas use your WIFI)
+ - Connect the camera with the LAN cable to the computer (in case you also need an internet connection on your computer please use your WIFI)
  
  - Enter the IP address of the camera into your file explorer: 192.168.1.188\pro2 (for Mac users go to connect to server and type 192.168.1.188 then connect as guest and choose pro2)
  

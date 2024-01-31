@@ -8,24 +8,20 @@ exercises: 0
 ## Standard camera setup and acquisition
 
 ### DSLR cameras
-<!--
-<span style="color:red">
-NICOLA PLEASE: add basics of setting up a camera. You can use some of the text below. Explain why a timer is needed. Be more comprehensive.
-</span>
- -->
-As we saw in the previous section this is one of the technique for taking spherical panorama photographs. When using this technique we should follow these specific steps:
 
-- Position the tripod at the view point where you want to take the photographs from and make sure is leveled with the bubble.
+As we saw in the previous section DSLR cameras fall under the first technique for taking spherical panorama photographs. When using this technique we should follow these specific steps:
 
-- Mount the rotating (mount) mechanism on the tripod. The mount can be operated with a remote or with a specialised app.
+- Position the tripod at the point where you want to take the photographs from and make sure is leveled with the bubble.
 
-- Mount the camera on top of the rotating mount turn it on and make sure is leveled trough the camera level function.
+- Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app (please see below).
+
+- Mount the camera on top of the rotating mount, turn it on and make sure is leveled trough the camera level function.
 
 - Keep the camera straight using a level function of the camera or the level of the tripod.
 
 - Turn your camera in portrait mode, this is ideal when shooting spherical panoramas because of the extended vertical coverage.
 
-- Set camera to manual focus so that it does not change between different shots. In this istance try to focu to infinity if your lens permits such a function. To increase Focal Lenght try to use high high f-stops number, especially if you are outside in good light conditions.
+- Set camera to manual focus so that it does not change between different shots. In this instance try to focus to infinity if your lens permits such a function. To increase Focal Lenght try to use high f-stops numbers, especially if you are shooting outside in good light conditions.
 
 - Adjust the light settings for acquiring well lighted photographs. You should be already  familiar with this settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
 
@@ -38,6 +34,12 @@ As we saw in the previous section this is one of the technique for taking spheri
   - Setup the interval time on your rotating mount.
   
   - Start the process.
+  
+  
+
+<span style="color:red">
+NICOLA PLEASE: Insert VIdeos
+</span>
 
 \ 
 
@@ -45,7 +47,7 @@ As we saw in the previous section this is one of the technique for taking spheri
 Using a compact camera or a mobile phone to shoot spherical panorama photographs are slightly different than using a DSLR or a specialized 360 camera.
 To use this equipment you will need to follow this basic steps:
 
-- Position the tripod at the view point where you want to take the photographs from and make sure is leveled with the bubble.
+- Position the tripod at the point where you want to take the photographs from and make sure is leveled with the bubble.
 
 - Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod.
 
@@ -72,6 +74,12 @@ To use this equipment you will need to follow this basic steps:
   - Setup the app so that it will take a full 360 rotation.
   
   - Start the process.
+  
+  
+  
+  <span style="color:red">
+NICOLA PLEASE: Insert VIdeos
+</span>
 
 \
  
@@ -83,11 +91,11 @@ The second technique for taking spherical panorama photographs, as we saw previo
 
 - Mount the camera on the tripod.
 
-- Turn on the camera, turn on the wifi(or the bluetooth).
+- Turn on the camera, turn on the wifi.
 
-- Turn on the bluetooth on your phone, find the camera an connect to it.
+- Turn on the Wifi(or Bluetooth if you are using another system) on your phone, find the camera an connect to it.
 
-- Open the [control camera App](https://www.insta360.com/download/insta360-pro2) and connect to it (for the Insta360 you can follow the tutorial on the app.
+- Open the [control camera App](https://www.insta360.com/download/insta360-pro2) and connect to it (for the Insta360 you can follow the tutorial on the app).
 
 - Keep the camera straight using a level function of the camera app.
 
@@ -96,15 +104,20 @@ The second technique for taking spherical panorama photographs, as we saw previo
 - Start taking the first photographs. This will be a series of 6 photograph for mono viewing or 12 for stereo viewing.
 
 
+<span style="color:red">
+NICOLA PLEASE: Insert VIdeos
+</span>
+
+
 
 ## Shooting tips
 
-- Use a good quality tripod for maximum stabilisation. However try to use a not too large tripod to avoid to much editing of the final image.
+- Use a good quality tripod for maximum stabilisation. However try to use a not slimmer tripod to avoid to much editing ofbthe final image.
 
 - Keep the sun on the side of the camera and do not position the camera directly looking at the sun.
 
 - In all cases use a remote control or a dedicated app for taking photographs to avoid camera movements.
 
-- Alwyas try to acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with softwre such as [Raw Therapee](https://www.rawtherapee.com/)
+- Always try to acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with software such as [Raw Therapee](https://www.rawtherapee.com/)
 
 

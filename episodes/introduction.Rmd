@@ -33,6 +33,9 @@ exercises: 0
 NICOLA PLEASE use terminology correctly and consistently in the website. Either use the term: panoramic photos or 360 photos. Whatever you choose stick to it.
 </span>
 -->
+> When talking about panoramic photographs we must be aware of certain terminolgy, this is because there are different techniques to visualise immersive environments. This techniques are applied depending on the user final outcome and purpose. In this lesson we are not going to explore neither VR immersive environments being made whith spherical stereographic photograph nor with full 3D explorable settings (3D engines and videogames). The purpose here is to understand the process of capturing and visualising spherical panorama photogrpahs for cultural heritage environment digitisation.
+
+
 
 ## Panorama photographs
 
@@ -46,7 +49,7 @@ The are not fully spherical images and, although they can be mapped onto a spher
 
 ## Spherical panorama photographs
 
-These are special photographs of a full spherical representation of their shooting point. 
+These are special photographs of a full spherical view of their shooting point. 
 
 This is usually a processed photo, also known as a photosphere or simply spherical panorama. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers is it possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting their device[^1].
 
