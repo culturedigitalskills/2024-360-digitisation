@@ -1,5 +1,5 @@
 ---
-title: 'Practical Exercise for 360&deg; photography'
+title: 'Practical Exercise for spherical panorama photography'
 teaching: 45
 exercises: 0
 ---

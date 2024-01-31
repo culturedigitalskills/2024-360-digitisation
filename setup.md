@@ -7,11 +7,14 @@ the data sets the Learner needs to have installed.
 -->
 
 
+
+
+
 ### Equipment
 
 For spherical panorama capturing and processing you will need the following equipment:
 
-- **Digital specialized spherical camera**: There are different commercial cameras for spherical photo capture however it is preferable to use a well established brand that specialize on spherical camera for high resolution imaging. Some of the brands that offers professional products are:
+- **Digital specialized spherical camera**: There are different commercial cameras for  capturing spherical panorama images however it is preferable to use a well established brand that specialize in spherical cameras for high resolution imaging. Some of the brands that offers professional products are:
 
   Professional (stereo and mono):
   * Insta360 [Pro](https://www.insta360.com/product/insta360-pro/), [Pro2](https://www.insta360.com/product/insta360-pro2/), [Titan](https://www.insta360.com/product/insta360-titan/)
@@ -38,9 +41,18 @@ For this tutorial you will need access to:
 
 - **Stitching Software**
   
-  Every camera has its own software for processing and stitching images. Some of them are proprietary and works only with its own cameras, others are more open and can import different formats used from a various range of camera. FOr this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2). 
+  Every camera has its own software for processing and stitching images. For this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2).
+  
+There are other proprietary and free software available that can import different formats used from a various range of cameras. Her are some of them that you can use to stitch spherical panorama photographs.
 
-- **Viewing software online or self-hosted**
+<span style="color:red">
+INSERT stitching software LIST
+</span>
+  
+  
+  
+
+- **Spherical panoramas viewers Viewing (hosted or self-hosted**
 
   * [Google Streetview](https://www.google.com/streetview/) online.
   * Pannellum [Online](https://pannellum.org/documentation/overview/tutorial/) or [self- hosted](https://pannellum.org/download/).
@@ -50,7 +62,7 @@ For this tutorial you will need access to:
 
 ### Examples Data Sets
 
-For this workshop we are going to use data captured from the practical session and already captured data hosted on our [D4Science](https://services.d4science.org/) repository
+For this workshop we are going to use data captured from the practical session and the already captured data hosted on our [D4Science](https://services.d4science.org/) repository
 You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by coping the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
 **First try to experiment by Right-clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**

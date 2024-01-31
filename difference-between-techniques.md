@@ -24,7 +24,7 @@ NICOLA PLEASE: add more analytical and comprehensive text on how each technique 
 
 This technique uses a regular DSLR camera, a compact camera or a mobile phone, and a rotating mechanism such as the [Matterport](https://matterport.com/axis) for DSLR cameras or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) for mobile phones.
  
-Wichever device you use the idea is to take interval timed photographs, covering the whole 360 horizontal and vertical area. 
+Whichever device you will use, the idea is to take interval timed photographs, covering the whole 360 horizontal and vertical area. 
 
 For vertical coverage it would be necessary one of the followings:
 
@@ -69,9 +69,11 @@ The images are then processed with stitching software to produce a spherical sin
 
 ![Spherical distorted processed photo of [St Mary's Roman Catholic Church](https://maps.app.goo.gl/giyXNK7kP4z5ohUK8) Brighton (UK), DSVMC University of Brighton, under [DSVMC](https://culturedigitalskills.org/)](fig/thumbnail.jpg){width="900"  alt="360 image thumb"}
 
+\
 
+> The algorithm used by many cameras such as the insta360 Pro 2 is called [dense optical flow](https://www.researchgate.net/publication/311851755_A_Unified_Framework_for_Street-View_Panorama_Stitching)
 
-The algorithm used by many cameras such as the insta360 Pro 2 is called [dense optical flow](https://www.researchgate.net/publication/311851755_A_Unified_Framework_for_Street-View_Panorama_Stitching)
+\
 
 ![The image overlap regions of six geometrically aligned and warped images in the 360 @BULLET street-view panoramic view where the black, the green and the red stand for the no-overlapped, two-overlapped, multi-overlapped image regions, respectively. Figure 3 - available via license: [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/deed.en)](https://www.researchgate.net/publication/311851755/figure/fig1/AS:442520124563456@1482516427768/The-image-overlap-regions-of-six-geometrically-aligned-and-warped-images-in-the-360.png)
 
