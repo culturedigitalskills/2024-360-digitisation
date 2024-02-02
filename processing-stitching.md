@@ -60,10 +60,7 @@ Within this folder, create another one named images. Copy the images from the ca
  - Select the location above mentioned and import the images
  
  
- 
-
- 
-
+\
 
 The basic step to connect the Insta360 Pro2 camera can be also followed on the video tutorial below starting from part 2 at 1.00 min or found on chapter one of the [Insta360 Pro2 Manual](https://data.d4science.org/shub/E_ZWY4eFRLK3JxQWdxU0lDb0pBV2VsZStzM0toVG1xRTJZZUVMd1VVZExpcDJHaElpWm41d0JTMFhJaU9Id0owWA==)
 
