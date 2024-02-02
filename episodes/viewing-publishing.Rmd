@@ -75,7 +75,7 @@ These are the unwrapped version of the images resulting by stitching the photogr
 ## Mapped onto a 360 viewer
 
 These images are the final mapped 360 photographs coming from the unrwapped images after stiching several fish-eye lenses photographs.
-Although there are several commercial and non-commercial viewers. We are going to use the [Pannellum Online viewer](https://pannellum.org/documentation/overview/tutorial/)for its simplicity and the possibility to directly publishing 360 images online.
+Although there are several commercial and non-commercial viewers. We are going to use the [Pannellum Online viewer](https://pannellum.org/documentation/overview/tutorial/) for its simplicity and the possibility to directly publishing 360 images online. The viewer was developed by [Matthew Petroff](https://mpetroff.net/) and the full publication can be found: [https://doi.org/10.21105/joss.01628](https://doi.org/10.21105/joss.01628)
 
 Go back to the [setup page](../learner/setup.Rmd) and choose one of the church's image by right clicking on it and getting the link, then paste it on the [viewer](https://pannellum.org/documentation/overview/tutorial/).
 

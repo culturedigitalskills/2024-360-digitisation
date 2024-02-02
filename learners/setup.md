@@ -41,18 +41,18 @@ For this tutorial you will need access to:
 
 - **Stitching Software**
   
-  Every camera has its own software for processing and stitching images. For this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2).
-  
-There are other proprietary and free software available that can import different formats used from a various range of cameras. Her are some of them that you can use to stitch spherical panorama photographs.
+  Every camera has its own software for processing and stitching images. For this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2). There are other proprietary and free software available that can import different formats used from a various range of cameras. Her are some of them that you can use to stitch spherical panorama photographs:
 
-<span style="color:red">
-INSERT stitching software LIST
-</span>
+  - [PTGui](https://ptgui.com/)
+  - [Hugin](https://hugin.sourceforge.io/) ([Panotools](https://panotools.sourceforge.net/))
+  - [Panoramastudio](https://www.tshsoft.de/en/panostudiopro_index)
+  - [Gigapan](https://gigapan.com/)
+  - [PTAssembler](https://www.tawbaware.com/ptasmblr.htm) - orthogonal non spherical
   
-  
-  
+\ 
 
 - **Spherical panoramas viewers Viewing (hosted or self-hosted**
+You can view spherical panorama photographs as flat distorted images such as the one above. However to be able to interactively rotating images you will need special viewer that you can find here:
 
   * [Google Streetview](https://www.google.com/streetview/) online.
   * Pannellum [Online](https://pannellum.org/documentation/overview/tutorial/) or [self- hosted](https://pannellum.org/download/).
