@@ -9,12 +9,20 @@ exercises: 0
 
 
 
-- Explains how to process and stitch 360 photographs by using
-the Insta360 Pro2 stitching software. 
-
-
+- How do we process raw data after spherical panorama photographs have been acquired? 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::: objectives 
+
+
+
+- Explains how to process and stitch spherical panorama photographs by using
+the Insta360 Pro2 stitching software. 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 <!--
 <span style="color:red">
 NICOLA PLEASE explain the process rather than including a video.

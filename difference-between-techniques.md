@@ -7,12 +7,27 @@ exercises: 0
 :::::::::::::::::::::::::::::::::::::: questions 
 
 
-- Explain how different techniques are available for 360 degrees photography
+- What methods are available for capturing spherical panorama images?
 
-- Cover camera setups for photography
+- How do we setup the shooting scenarios?
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+:::::::::::::::::::::::::::::::::::::: objectives 
+
+
+- Explain how different techniques are available for spherical panorama photography
+
+- Cover camera setups for spherical panorama photography
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
 
 <!--
 <span style="color:red">

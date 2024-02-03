@@ -1,5 +1,5 @@
 ---
-title: 'Definition'
+title: 'Introduction'
 teaching: 15
 exercises: 0
 ---
@@ -7,9 +7,16 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Introduces digitisation with 360 degrees photography
+- What is panorama photography?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::: objectives 
+
+- Introduces the definition of panorama photography and spherical panoramas
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!--
 ::::::::::::::::::::::::::::::::::::: objectives
@@ -33,6 +40,8 @@ exercises: 0
 NICOLA PLEASE use terminology correctly and consistently in the website. Either use the term: panoramic photos or 360 photos. Whatever you choose stick to it.
 </span>
 -->
+
+
 > When talking about panoramic photographs we must be aware of certain terminolgy, this is because there are different techniques to visualise immersive environments. This techniques are applied depending on the user final outcome and purpose. In this lesson we are not going to explore neither VR immersive environments being made whith spherical stereographic photograph nor with full 3D explorable settings (3D engines and videogames). The purpose here is to understand the process of capturing and visualising spherical panorama photogrpahs for cultural heritage environment digitisation.
 
 
