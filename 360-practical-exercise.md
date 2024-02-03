@@ -67,7 +67,8 @@ In this exercise we are going to try two separate shooting settings one **exteri
 11. In theory you will only need one shot however try to experiment with different position if you have time. (if you do so please try to plan a small shooting tour so that all the parts of the area that you are shooting will be covered)
 
 
-
+![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail1.jpg)
+![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail2.jpg) 
 
 
 
