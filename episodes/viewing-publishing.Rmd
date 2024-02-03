@@ -7,8 +7,15 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Explain different viewing and publishing methods for 
-360 degrees photography.
+- How do we view and publish spherical panorama photographs?
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::: objectives 
+
+- Explain different viewing and publishing methods for spherical photography.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
@@ -66,7 +73,7 @@ These are the original files that are taken with a fish-eye lens usually they go
 
 ## Spherical panorama images (with distortion)
 
-These are the unwrapped version of the images resulting by stitching the photograaph taken with a fish-eye lens. They can be fully mapped onto a [360 viewer](https://panoviewer.toolforge.org/#Nebel_Schienen_Panorama.jpg)
+These are the unwrapped version of the images resulting by stitching the photograph taken with a fish-eye lens. They can be fully mapped onto a [360 viewer](https://panoviewer.toolforge.org/#Nebel_Schienen_Panorama.jpg) however we can simple publish them in this format because they can also easely be re-mapped using the viewer.
 
 ![360° Panorama einer Bahnstrecke bei Nebel, DerMische, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nebel_Schienen_Panorama.jpg) ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Nebel_Schienen_Panorama.jpg) 
 
