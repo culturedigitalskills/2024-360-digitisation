@@ -68,7 +68,8 @@ In this exercise we are going to try two separate shooting settings one **exteri
 
 
 ![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail1.jpg)
-![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail2.jpg) 
+
+<iframe width="700" height="500" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//data.d4science.org/shub/E_RENQcm5XMGxMNk9BUHJQQldHRGRlYW9mMjhNMkdSN0xJUXVyN2xoZTg2RU1hS1JONFNWM1k0R2VqSXAvcFJaKw%3D%3D"></iframe>
 
 
 
