@@ -45,7 +45,7 @@ NICOLA PLEASE use terminology correctly and consistently in the website. Either 
 
 ## Brief History of panoramic representations
 
-The idea of panoramic representation can be traced back to 20 A.D  with the frescos in the houses in Pompeii for example[^1] and probably even before. Techniques to capture panoramic views in photography started as early as photography itself. It was mostly used by photographers who were making a series of consequent photos, to show the whole city viewed from an elevated point. This is because a single photograph from far away could not show enough details of the scene.[^2]
+The idea of panoramic representation can be traced back to 20 A.D for example with the frescos in the houses in Pompeii[^1] (and probably even before). Techniques to capture panoramic views in photography started as early as photography itself. It was mostly used by photographers who were making a series of consequent photos, to show the whole city viewed from an elevated point. This is because a single photograph from far away could not show enough details of the scene.[^2]
 
 ![Villa of the Mysteries (Pompeii) - frescos 01, shakko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Villa_of_the_Mysteries_(Pompeii)_-_frescos_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1b/Villa_of_the_Mysteries_%28Pompeii%29_-_frescos_01.jpg)
 
@@ -60,7 +60,7 @@ The idea of panoramic representation can be traced back to 20 A.D  with the fres
 
 \
 
-> When considering panoramic photographs we must be aware of certain terminology, this is because there are different techniques for visualising immersive environments. These techniques are applied depending on the user's outcome and purpose. In this lesson, we are not going to explore either VR immersive environments being made with spherical stereographic photographs or with full 3D explorable settings (3D engines and video games). The purpose here is to understand the process of capturing and visualising spherical panorama photographs for cultural heritage environment digitisation.
+> When considering panoramic photographs we must be aware of certain terminology, this is because there are different techniques for visualising immersive 360 environments. These techniques are applied depending on the user's outcome and purpose. In this lesson, we are not going to explore either VR immersive environments being made with spherical stereographic photographs or with full 3D explorable settings (3D engines and video games). The purpose here is to understand the process of capturing and visualising spherical panorama photographs for cultural heritage environment digitisation.
 
 
 
