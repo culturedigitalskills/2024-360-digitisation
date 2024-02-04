@@ -9,21 +9,21 @@ exercises: 0
 
 ### DSLR cameras
 
-As we saw in the previous section DSLR cameras fall under the first technique for taking spherical panorama photographs. When using this technique we should follow these specific steps:
+As we saw in the previous section, DSLR cameras are used when following the first technique for taking spherical panorama photographs. When using this method  we should follow these specific steps:
 
 - Position the tripod at the point where you want to take the photographs from and make sure is leveled with the bubble.
 
 - Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app (please see below).
 
-- Mount the camera on top of the rotating mount, turn it on and make sure is leveled trough the camera level function.
+- Mount the camera on top of the rotating mount and turn it on.
 
-- Keep the camera straight using a level function of the camera or the level of the tripod.
+- Keep the camera straight using a level function of the camera and the level of the tripod.
 
-- Turn your camera in portrait mode, this is ideal when shooting spherical panoramas because of the extended vertical coverage.
+- Turn your camera in portrait mode (this is ideal when shooting spherical panoramas because of the extended vertical coverage).
 
-- Set camera to manual focus so that it does not change between different shots. In this instance try to focus to infinity if your lens permits such a function. To increase Focal Lenght try to use high f-stops numbers, especially if you are shooting outside in good light conditions.
+- Set camera to manual focus so that it does not change between different shots. For instance try to focus to infinity if your lens permits such a function. To increase Focal Lenght try to use high f-stops numbers, especially if you are shooting outside in good light conditions.
 
-- Adjust the light settings for acquiring well lighted photographs. You should be already  familiar with this settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
+- Adjust the light settings for acquiring well lighted photographs. You should be already familiar with this settings. If you need some extra help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
 
 - Start shooting by rotating the camera of a minimum 60 degree angle (this depends on the focal length of your lens) Please refer to the [previous section](difference-between-techniques.Rmd) to check the amount of pictures to be taken.
 
@@ -35,11 +35,13 @@ As we saw in the previous section DSLR cameras fall under the first technique fo
   
   - Start the process.
   
-  
 
-<span style="color:red">
-NICOLA PLEASE: Insert VIdeos
-</span>
+Here is a comprehensive video of the whole process:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7dSl5h0OVjA?si=4AvLjWDz0IXgaq2p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
+How to shoot 360 panoramas with a DSLR, under [Metareal](https://www.metareal.com/), via [YouTube](https://www.youtube.com/watch?v=7dSl5h0OVjA) 
+
 
 \ 
 
@@ -75,12 +77,10 @@ To use this equipment you will need to follow this basic steps:
   
   - Start the process.
   
+\  
   
-  
-  <span style="color:red">
-NICOLA PLEASE: Insert VIdeos
-</span>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHXYS1xEQrM?si=QA8Z0-8fIEz9qHDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+How To Create 360 Photos with insta360 Flow, under [Eat Sleep 360](https://eatsleep360.ck.page/), via [YouTube](https://www.youtube.com/watch?v=YHXYS1xEQrM) 
 \
  
 ## 360 camera setup and acquisition

@@ -29,6 +29,13 @@ Image theory
 ### Principles and Guidelines
 
 \
+
+https://panoramic-photo-guide.com/camera-to-shoot-panorama.html
+
+https://www.panoramicassociation.org/
+
+http://learn360photography.com/
+
 \
 
 ### Other tutorials
