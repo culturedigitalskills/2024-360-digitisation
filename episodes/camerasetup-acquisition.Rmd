@@ -81,6 +81,7 @@ To use this equipment you will need to follow this basic steps:
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YHXYS1xEQrM?si=QA8Z0-8fIEz9qHDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 How To Create 360 Photos with insta360 Flow, under [Eat Sleep 360](https://eatsleep360.ck.page/), via [YouTube](https://www.youtube.com/watch?v=YHXYS1xEQrM) 
+
 \
  
 ## 360 camera setup and acquisition
@@ -103,10 +104,10 @@ The second technique for taking spherical panorama photographs, as we saw previo
 
 - Start taking the first photographs. This will be a series of 6 photograph for mono viewing or 12 for stereo viewing.
 
+Here a quick video tutorial for general 360 camera shooting:
 
-<span style="color:red">
-NICOLA PLEASE: Insert VIdeos
-</span>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlOwvnYQT0k?si=g3-TW1pLlzgEfzl9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+How to shoot panoramas with a 360 camera, under [under [Metareal](https://www.metareal.com/), via [YouTube](https://www.youtube.com/watch?v=wlOwvnYQT0k)
 
 
 
