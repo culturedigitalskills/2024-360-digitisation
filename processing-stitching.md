@@ -73,7 +73,6 @@ Within this folder, create another one named images. Copy the images from the ca
 The basic step to connect the Insta360 Pro2 camera can be also followed on the video tutorial below starting from part 2 at 1.00 min or found on chapter one of the [Insta360 Pro2 Manual](https://data.d4science.org/shub/E_ZWY4eFRLK3JxQWdxU0lDb0pBV2VsZStzM0toVG1xRTJZZUVMd1VVZExpcDJHaElpWm41d0JTMFhJaU9Id0owWA==)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HEKvguHE8HM?si=7rLzOtexpkAoZVjG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-
 Insta360 Pro 2 Tutorial – Importing Files, under [Insta360](https://www.insta360.com/), via [YouTube](https://www.youtube.com/watch?v=HEKvguHE8HM) 
 
 

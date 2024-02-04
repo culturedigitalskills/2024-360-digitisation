@@ -69,7 +69,6 @@ In this exercise we are going to try two separate shooting settings one **exteri
 
 ![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail1.jpg)
 
-<iframe width="700" height="500" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//data.d4science.org/shub/E_RENQcm5XMGxMNk9BUHJQQldHRGRlYW9mMjhNMkdSN0xJUXVyN2xoZTg2RU1hS1JONFNWM1k0R2VqSXAvcFJaKw%3D%3D"></iframe>
 
 
 
@@ -85,6 +84,20 @@ Basic tips to achieve a good shooting sessions in this exercise are (also see pr
  - Find a good position for the camera
  - Try not to shoot against walls
  - Try not to shoot when the sun is low on the horizon and directly pointing towards one of the camera lens (unless you want to achieve a particular effects)
+ 
+Finally you can also follow this tutorial for basic camera operation and to connect the camera to your phone:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-g0dkBTFiCI?si=dTNHA4MRu2x01hb_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Insta360 Pro 2 Tutorial – Basic Camera Operation, under [Insta360](https://www.insta360.com/), via [YouTube](https://www.youtube.com/watch?v=-g0dkBTFiCI) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OyYoNcTC9ow?si=t84G-E2jZTCLoI6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Insta360 Pro 2 Tutorial – Connecting to your device, under
+[Insta360](https://www.insta360.com/), via [YouTube](https://www.youtube.com/watch?v=-g0dkBTFiCI) 
+
+
+
  
 \
 

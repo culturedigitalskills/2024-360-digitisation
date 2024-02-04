@@ -37,7 +37,8 @@ For this tutorial you will need access to:
 
 -	[**Insta360 Pro 2 Shooting App**](https://www.insta360.com/download/insta360-pro2)
 
-- **Image processing software**: [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images. 
+- **Image processing software**
+  [Raw Therapee](https://www.rawtherapee.com/) for batch converting raw images. 
 
 - **Stitching Software**
   
@@ -48,22 +49,20 @@ For this tutorial you will need access to:
   - [Panoramastudio](https://www.tshsoft.de/en/panostudiopro_index)
   - [Gigapan](https://gigapan.com/)
   - [PTAssembler](https://www.tawbaware.com/ptasmblr.htm) - orthogonal non spherical
-  
-\ 
 
-- **Spherical panoramas viewers Viewing (hosted or self-hosted**
-You can view spherical panorama photographs as flat distorted images such as the one above. However to be able to interactively rotating images you will need special viewer that you can find here:
+\
 
-  * [Google Streetview](https://www.google.com/streetview/) online.
-  * Pannellum [Online](https://pannellum.org/documentation/overview/tutorial/) or [self- hosted](https://pannellum.org/download/).
-  * Virtual Tours: [Pannellum](https://pannellum.org/), [Marzipano](https://www.marzipano.net/), [Asteroom](https://www.asteroom.com/en/photographers), [Matterport](https://matterport.com/en-gb).
+- **Spherical panorama viewers (hosted or self-hosted**
+
+  You can view spherical panorama photographs as flat distorted images such as the one above. However to be able to interactively rotates images you will need special viewers such as **Pannellum** [Online](https://pannellum.org/documentation/overview/tutorial/) or [self- hosted](https://pannellum.org/download/).
+
     
 \
 
 ### Examples Data Sets
 
 For this workshop we are going to use data captured from the practical session and the already captured data hosted on our [D4Science](https://services.d4science.org/) repository
-You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by coping the link of each image onto the [Pannellum 360 viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
+You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by coping the link of each image onto the [Pannellum spherical panorama viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
 **First try to experiment by Right-clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
 

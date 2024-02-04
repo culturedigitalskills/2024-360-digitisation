@@ -12,9 +12,11 @@ exercises: 0
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::::::::::::::::::: objectives 
+:::::::::::::::::::::::::::::::::::::: objectives
 
-- Introduces the definition of panorama photography and spherical panoramas
+- Brief History of panoeama photography
+
+- Introduceing the definition of panorama photography and spherical panoramas
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -41,8 +43,24 @@ NICOLA PLEASE use terminology correctly and consistently in the website. Either 
 </span>
 -->
 
+## Brief History of panoramic representations
 
-> When talking about panoramic photographs we must be aware of certain terminolgy, this is because there are different techniques to visualise immersive environments. This techniques are applied depending on the user final outcome and purpose. In this lesson we are not going to explore neither VR immersive environments being made whith spherical stereographic photograph nor with full 3D explorable settings (3D engines and videogames). The purpose here is to understand the process of capturing and visualising spherical panorama photogrpahs for cultural heritage environment digitisation.
+The idea of panoramic representation can be traced back to 20 A.D  with the frescos in the houses in Pompeii for example[^1] and probably even before. Techniques to capture panoramic view in photography started as early as photography itself. It was mostly used by photographers which where making a series of consequent photos, to show the whole city viewed from an elevated point. This is because a single photograph from far away could not show enough details of the scene.[^2]
+
+![Villa of the Mysteries (Pompeii) - frescos 01, shakko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Villa_of_the_Mysteries_(Pompeii)_-_frescos_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1b/Villa_of_the_Mysteries_%28Pompeii%29_-_frescos_01.jpg)
+
+
+\
+
+![Panoramic view of London, from the top of Albion Mills which was by the south end of Blackfriars Bridge,Henry Aston Barker, 1972, Government Art Collection, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panorama_of_London_Barker.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Panorama_of_London_Barker.jpg)
+
+\
+
+![Panorama of Sydney from Lavender Bay (1875), Bernard Otto Holtermann (1838-1885) and Charles Bayliss (1850-1897), Public domain, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Panorama_of_Sydney_from_Lavender_Bay_(1875).jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e3/Panorama_of_Sydney_from_Lavender_Bay_%281875%29.jpg)
+
+\
+
+> When considering panoramic photographs we must be aware of certain terminolgy, this is because there are different techniques for visualising immersive environments. This techniques are applied depending on the user final outcome and purpose. In this lesson we are not going to explore neither VR immersive environments being made whith spherical stereographic photograph nor with full 3D explorable settings (3D engines and videogames). The purpose here is to understand the process of capturing and visualising spherical panorama photogrpahs for cultural heritage environment digitisation.
 
 
 
@@ -58,18 +76,23 @@ The are not fully spherical images and, although they can be mapped onto a spher
 
 ## Spherical panorama photographs
 
-These are special photographs of a full spherical view of their shooting point. 
-
-This is usually a processed photo, also known as a photosphere or simply spherical panorama. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers is it possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting their device[^1].
+These are special photographs of a full spherical view from the shooting point. 
+Usually a processed photo, also known as a **photosphere** or simply **spherical panorama**. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting the device[^3].
 
 
  ![360° panorama of Plavecký hrad, Doronenko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plaveck%C3%BD_hrad_360_panorama_06.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/Plaveck%C3%BD_hrad_360_panorama_06.jpg) 
  
  
-[^1]: https://skylum.com/blog/360-degree-photography
+\
+\
+\
+
+[^1]: Chambers's Encyclopaedia. (1973). United Kingdom: International Learning Systems, p747
 
 
+[^2]: History of Panoramic Photography, Digital Collection, University Libraries Washington. https://content.lib.washington.edu/panoramweb/history.html
 
+[^3]: https://skylum.com/blog/360-degree-photography
 
 
 
