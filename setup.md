@@ -14,7 +14,7 @@ the data sets the Learner needs to have installed.
 
 For spherical panorama capturing and processing you will need the following equipment:
 
-- **Digital specialized spherical camera**: There are different commercial cameras for  capturing spherical panorama images however it is preferable to use a well established brand that specialize in spherical cameras for high resolution imaging. Some of the brands that offers professional products are:
+- **Digital specialized spherical camera**: There are different commercial cameras for capturing spherical panorama images, however it is preferable to use a well-established brand that specializes in spherical cameras for high-resolution imaging. Some of the brands that offer professional products are:
 
   Professional (stereo and mono):
   * Insta360 [Pro](https://www.insta360.com/product/insta360-pro/), [Pro2](https://www.insta360.com/product/insta360-pro2/), [Titan](https://www.insta360.com/product/insta360-titan/)
@@ -23,9 +23,9 @@ For spherical panorama capturing and processing you will need the following equi
   * Matterport [Pro3](https://matterport.com/en-gb/pro3), [Pro2](https://matterport.com/en-gb/pro2)
   
   Commercial (stereo and mono):
-  * The list of commercial cameras that capture spherical panorama photos and video (stereo and mono) is quite extesens. Comprehensible [list](https://matterport.com/cameras/360-cameras) can be found at the [Matterport](https://matterport.com/en-gb) website which also offer a range of other solutions and software.
+  * The list of commercial cameras that capture spherical panorama photos and video (stereo and mono) is fairly extensive. Comprehensible [list](https://matterport.com/cameras/360-cameras) can be found at the [Matterport](https://matterport.com/en-gb) website which also offers a range of other solutions and software.
 
--	**Tripod** must be used because spherical panorama photo shooting needs to be stable otherwise stitching errors my occur.
+-	**Tripod** must be used because spherical panorama photo shooting needs to be stable otherwise stitching errors may occur.
 
 
 
@@ -42,7 +42,7 @@ For this tutorial you will need access to:
 
 - **Stitching Software**
   
-  Every camera has its own software for processing and stitching images. For this workshop we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2). There are other proprietary and free software available that can import different formats used from a various range of cameras. Her are some of them that you can use to stitch spherical panorama photographs:
+  Every camera has its software for processing and stitching images. For this workshop, we will use the [Insta360 Pro 2 Control App and Stitcher](https://www.insta360.com/download/insta360-pro2). There are other proprietary and free software available which can import different formats used from a range of cameras. Here are some of them that you can use to stitch spherical panorama photographs:
 
   - [PTGui](https://ptgui.com/)
   - [Hugin](https://hugin.sourceforge.io/) ([Panotools](https://panotools.sourceforge.net/))
@@ -54,7 +54,7 @@ For this tutorial you will need access to:
 
 - **Spherical panorama viewers (hosted or self-hosted**
 
-  You can view spherical panorama photographs as flat distorted images such as the one above. However to be able to interactively rotates images you will need special viewers such as **Pannellum** [Online](https://pannellum.org/documentation/overview/tutorial/) or [self- hosted](https://pannellum.org/download/).
+  You can view spherical panorama photographs as flat distorted images such as the one above. However, to be able to interactively rotate images you will need special viewers such as **Pannellum** [Online](https://pannellum.org/documentation/overview/tutorial/) or [self-hosted](https://pannellum.org/download/).
 
     
 \
@@ -62,9 +62,9 @@ For this tutorial you will need access to:
 ### Examples Data Sets
 
 For this workshop we are going to use data captured from the practical session and the already captured data hosted on our [D4Science](https://services.d4science.org/) repository
-You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by coping the link of each image onto the [Pannellum spherical panorama viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
+You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNsanZFN1BQbElNdXVEaTMvZEVueW5xalA2cHBvcEx3WnJXYy91Z1Mwd1ozRm5TNzVZNUZyVGg2NHY4Ng==) as well as having a quick preview of the final result. This is achieved by copying the link of each image onto the [Pannellum spherical panorama viewer](https://pannellum.org/documentation/overview/tutorial/) like the example below.
 
-**First try to experiment by Right-clicking on one of the image and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
+**First try to experiment by Right-clicking on one of the images and copy the image URL address into the URL box of the [viewer](https://pannellum.org/documentation/overview/tutorial/)**
 
 
 |   |   |   |   |   |   |
@@ -98,10 +98,10 @@ For this lesson, you will need:
 
 - Install the software mentioned above on this page.
 
-- Download the data sets iincluded above.
+- Download the data sets included above.
 
 - Access to the [Culture Digital Skills Virtual Research Environment D4Science](https://services.d4science.org/group/culturedigitalskills) is also 
-required. If you have not registered, it would be useful to do this before
+required. If you have not registered, it would be useful to do so before
 the lesson. For more information, see [instructions](https://universityofbrighton.github.io/2023-fair-multidimensional-media/virtual-research-environment.html#virtual-research-environments-vre)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::

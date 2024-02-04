@@ -9,7 +9,7 @@ exercises: 0
 
 - What methods are available for capturing spherical panorama images?
 
-- How do we setup the shooting scenarios?
+- How do we set up the shooting scenarios?
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -31,27 +31,27 @@ exercises: 0
 
 <!--
 <span style="color:red">
-NICOLA PLEASE: add more analytical and comprehensive text on how each technique works and how to capture images with it? 
+NICOLA PLEASE: add more analytical and comprehensive text on how each technique works and how to capture images with it. 
 </span>
  -->
 
 ## Multiple-shot rotating (Pano Kit)
 
-This technique uses a regular **DSLR camera, a compact camera or a mobile phone**, accompained by **rotating mechanism** such as the [Matterport](https://matterport.com/axis) for DSLR cameras or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) for mobile phones.
+This technique uses a regular **DSLR camera, a compact camera or a mobile phone**, accompanied by **rotating mechanism** such as the [Matterport](https://matterport.com/axis) for DSLR cameras or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) for mobile phones.
  
-Whichever device you will use, the idea is to take interval timed photographs, covering the whole 360 horizontal and vertical area. 
+Whichever device you use, the idea is to take interval-timed photographs, covering the whole 360 horizontal and vertical area. 
 
-For vertical coverage it would be necessary one of the followings:
+For vertical coverage it would be necessary one of the following:
 
-- a wide angle lens in portrait mode for DSLR cameras
+- a wide-angle lens in portrait mode for DSLR cameras
 
 - an [adapter kit](https://www.asteroom.com/en/hardware) for mobile phones
 
-- if you are not using a wide angle lens it will be necessary to shoot 4 more photographs at 90 degrees (or 3 at 60 degrees) tilted to the top and to the bottom of the view
+- if you are not using a wide-angle lens it will be necessary to shoot 4 more photographs at 90 degrees (or 3 at 60 degrees) tilted to the top and the bottom of the view
 
 This is a general guideline for shooting with regular cameras. A good rule is to overlap the photos for at least **1/3** of each sequential image. However there are many different lenses for DSLR cameras and it is important to know their characteristics, especially the FOV's(Field of View) settings. 
 
-- [**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline of choosing the right amount of overlap depending on the field of view of the lenses.
+- [**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline for choosing the right amount of overlap depending on the field of view of the lenses.
 
 - [**On this page**](http://learn360photography.com/) you can find a list of kit parts for shooting with this technique
 
@@ -64,7 +64,7 @@ This is a general guideline for shooting with regular cameras. A good rule is to
 
 ## Multiple wide-angle lenses (spherical panorama camera/360 camera)
 
-This techniques uses a camera with one or more [**fish-eye lenses**](https://en.wikipedia.org/wiki/Fisheye_lens) such as the [Insta360](https://www.insta360.com/product/insta360-pro/).
+This technique uses a camera with one or more [**fish-eye lenses**](https://en.wikipedia.org/wiki/Fisheye_lens) such as the [Insta360](https://www.insta360.com/product/insta360-pro/).
 
 - Only one shot is necessary because multiple images of different angles are captured at the same time, covering the whole 360 spherical spectrum overlapping each other. 
 
@@ -96,11 +96,11 @@ The images are then processed with stitching software to produce a spherical sin
 
 
 <span style="color:red">
-NICOLA PLEASE add textual information on this to explain to people why and how these techniques  are different and then add the video as well to find out further information. The video is not enough and we have to have this explicitly written as well. 
+NICOLA PLEASE add textual information on this to explain to people why and how these techniques are different and then add the video as well to find out further information. The video is not enough and we have to have this explicitly written as well. 
 </span>
 -->
 
-> This two techniques differs consistently: while the first needs more time to set-up but the acquisitin is achieved with cheaper equipment, the latter has the advantages to be faster during the [**setup and acquisition**](camerasetup-acquisition.Rmd) phase but with generally more elevated costs.
+> These two techniques differ consistently: while the first needs more time to set up but the acquisition is achieved with cheaper equipment, the latter has the advantage of being faster during the [**setup and acquisition**](camera setup-acquisition.Rmd) phase but with generally more elevated costs.
 
 \
 
