@@ -14,9 +14,9 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: objectives
 
-- Brief History of panoeama photography
+- Brief History of panorama photography
 
-- Introduceing the definition of panorama photography and spherical panoramas
+- Introducing the definition of panorama photography and spherical panoramas
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -32,7 +32,7 @@ exercises: 0
 
 - Shows How to publish 360 mono panorama.
 
- - Advantages and disadvantages for the use of this techniques.
+ - Advantages and disadvantages of the use of these techniques.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -45,7 +45,7 @@ NICOLA PLEASE use terminology correctly and consistently in the website. Either 
 
 ## Brief History of panoramic representations
 
-The idea of panoramic representation can be traced back to 20 A.D  with the frescos in the houses in Pompeii for example[^1] and probably even before. Techniques to capture panoramic view in photography started as early as photography itself. It was mostly used by photographers which where making a series of consequent photos, to show the whole city viewed from an elevated point. This is because a single photograph from far away could not show enough details of the scene.[^2]
+The idea of panoramic representation can be traced back to 20 A.D  with the frescos in the houses in Pompeii for example[^1] and probably even before. Techniques to capture panoramic views in photography started as early as photography itself. It was mostly used by photographers who were making a series of consequent photos, to show the whole city viewed from an elevated point. This is because a single photograph from far away could not show enough details of the scene.[^2]
 
 ![Villa of the Mysteries (Pompeii) - frescos 01, shakko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Villa_of_the_Mysteries_(Pompeii)_-_frescos_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1b/Villa_of_the_Mysteries_%28Pompeii%29_-_frescos_01.jpg)
 
@@ -60,7 +60,7 @@ The idea of panoramic representation can be traced back to 20 A.D  with the fres
 
 \
 
-> When considering panoramic photographs we must be aware of certain terminolgy, this is because there are different techniques for visualising immersive environments. This techniques are applied depending on the user final outcome and purpose. In this lesson we are not going to explore neither VR immersive environments being made whith spherical stereographic photograph nor with full 3D explorable settings (3D engines and videogames). The purpose here is to understand the process of capturing and visualising spherical panorama photogrpahs for cultural heritage environment digitisation.
+> When considering panoramic photographs we must be aware of certain terminology, this is because there are different techniques for visualising immersive environments. These techniques are applied depending on the user's outcome and purpose. In this lesson, we are not going to explore either VR immersive environments being made with spherical stereographic photographs or with full 3D explorable settings (3D engines and video games). The purpose here is to understand the process of capturing and visualising spherical panorama photographs for cultural heritage environment digitisation.
 
 
 
@@ -68,7 +68,7 @@ The idea of panoramic representation can be traced back to 20 A.D  with the fres
 
 These are photographs of a full or partial 360 horizontal view of their shooting point. 
 
-The are not fully spherical images and, although they can be mapped onto a sphere they lack of information on the top and the bottom part of the image, at most they can be mapped to a cylindrical projection.
+They are not fully spherical images and, although they can be mapped onto a sphere they lack information on the top and the bottom part of the image, at most they can be mapped to a cylindrical projection.
 
 ![360 degree view of Giza pyramid complex, kallerna, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_-_360.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/32/Giza_pyramid_complex_-_360.jpg)  
 
@@ -77,7 +77,7 @@ The are not fully spherical images and, although they can be mapped onto a spher
 ## Spherical panorama photographs
 
 These are special photographs of a full spherical view from the shooting point. 
-Usually a processed photo, also known as a **photosphere** or simply **spherical panorama**. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting the device[^3].
+Usually, a processed photo, is also known as a **photosphere** or simply **spherical panorama**. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers, it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting the device[^3].
 
 
  ![360° panorama of Plavecký hrad, Doronenko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plaveck%C3%BD_hrad_360_panorama_06.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/Plaveck%C3%BD_hrad_360_panorama_06.jpg) 
