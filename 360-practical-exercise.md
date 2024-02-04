@@ -97,6 +97,13 @@ Insta360 Pro 2 Tutorial – Connecting to your device, under
 [Insta360](https://www.insta360.com/), via [YouTube](https://www.youtube.com/watch?v=-g0dkBTFiCI) 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_RKIitR2BI?si=0bMVejDJ8Q5XsfDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+How to setup a VR or 360 Camera - Insta360 Pro , under
+[LensProToGo]https://www.lensprotogo.com/), via [YouTube](https://www.youtube.com/@lensprotogo)
+
+
+
 
  
 \
