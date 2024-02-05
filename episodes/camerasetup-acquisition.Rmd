@@ -1,33 +1,35 @@
 ---
-title: 'Camera setup and acquisition'
+title: 'Camera Setup and Acquisition'
 teaching: 15
 exercises: 0
 ---
 
 
-## Standard camera setup and acquisition
+## Multiple-shot rotating (Pano Kit) with DSLR camera setup and acquisition
 
-### DSLR cameras
+When using this method  we should follow these specific steps:
 
-As we saw in the previous section, DSLR cameras are used when following the first technique for taking spherical panorama photographs. When using this method  we should follow these specific steps:
+1. Position the tripod at the point where you want to take the photographs and make sure is levelled with the bubble.
 
-- Position the tripod at the point where you want to take the photographs and make sure is levelled with the bubble.
+2. Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app.
 
-- Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app (please see below).
+3. Mount the camera on top of the rotating mount and turn it on.
 
-- Mount the camera on top of the rotating mount and turn it on.
+4. Turn your camera in portrait mode. This is ideal when shooting spherical panoramas because of the extended vertical coverage.
 
-- Keep the camera straight using a level function of the camera and the level of the tripod.
+5. Set the camera to manual focus so that it does not 
+change between different shots. 
+For instance, try to focus to infinity if your 
+lens permits such a function. 
+To increase Focal length try to use high f-stop numbers, 
+especially if you are shooting outside in good light conditions.
 
-- Turn your camera in portrait mode (this is ideal when shooting spherical panoramas because of the extended vertical coverage).
+6. Adjust the light settings for acquiring well-lighted photographs. [This guideline](https://capturetheatlas.com/camera-settings/) contains additional advice.
 
-- Set the camera to manual focus so that it does not change between different shots. For instance, try to focus to infinity if your lens permits such a function. To increase Focal length try to use high f-stop numbers, especially if you are shooting outside in good light conditions.
+7. Start shooting by rotating the camera at a minimum 60-degree angle, depending
+on the focal length of your lens. Please refer to the [previous section](difference-between-techniques.Rmd) to check the amount of pictures to be taken.
 
-- Adjust the light settings for acquiring well-lighted photographs. You should be already familiar with these settings. If you need some extra help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
-
-- Start shooting by rotating the camera at a minimum 60-degree angle (this depends on the focal length of your lens) Please refer to the [previous section](difference-between-techniques.Rmd) to check the amount of pictures to be taken.
-
-- To speed up the process you can use a [motorized camera mount](https://www.manfrotto.com/global/genie-ii-pan-tilt-sy0031-0001/) synchronized with the timer of the camera. In this case:
+8. To speed up the process you can use a [motorized camera mount](https://www.manfrotto.com/global/genie-ii-pan-tilt-sy0031-0001/) synchronized with the timer of the camera. In this case:
 
   - Set up the number of photographs to be taken on your camera.
   
@@ -45,15 +47,16 @@ How to shoot 360 panoramas with a DSLR, under [Metareal](https://www.metareal.co
 
 \ 
 
-### Compact cameras and mobile phones 
 Using a compact camera or a mobile phone to shoot spherical panorama photographs is slightly different than using a DSLR or a specialized 360 camera.
-To use this equipment you will need to follow these basic steps:
+You will need a mobile phone mount like the [monfrotto](https://www.manfrotto.com/global/pixi-pano360-remotely-controlled-motorized-head-mhpixi360/).
 
-- Position the tripod at the point where you want to take the photographs and make sure is levelled with the bubble.
+<!--
+### Compact cameras and mobile phones 
+1. Position the tripod at the point where you want to take the photographs and make sure is leveled with the bubble.
 
-- Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod.
+2. Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app.
 
-- Mount the camera or the mobile phone (with a [tripod adapter](https://www.manfrotto.com/global/products/smartphones-action-cameras-drones/smartphone-accessories/)) on top of the rotating mount and turn it on and make sure is levelled with the level function.
+3. Mount the camera or the mobile phone (with a [tripod adapter](https://www.manfrotto.com/global/products/smartphones-action-cameras-drones/smartphone-accessories/)) on top of the rotating mount and turn it on and make sure is levelled with the level function.
 
 - Adjust the light setting on the camera or the app. Settings for acquiring well-lighted photographs are the same settings for standard DSRL cameras (although there are some limitations on compact cameras and mobile phones). You should be already familiar with these settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
 
@@ -78,31 +81,32 @@ To use this equipment you will need to follow these basic steps:
   - Start the process.
   
 \  
+-->
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YHXYS1xEQrM?si=QA8Z0-8fIEz9qHDe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 How To Create 360 Photos with insta360 Flow, under [Eat Sleep 360](https://eatsleep360.ck.page/), via [YouTube](https://www.youtube.com/watch?v=YHXYS1xEQrM) 
 
 \
  
-## 360 camera setup and acquisition
+## Spherical panorama camera/360 camera setup and acquisition
 
-The second technique for taking spherical panorama photographs, as we saw previously, is by using a 360 camera. Let's see the steps for setting up and achieving a faster shooting session. Although these steps are specific to the Insta360 Pro 2, they remain easily applicable to other types of 360 cameras:
+Although these steps are specific to the Insta360 Pro 2, they remain easily applicable to other types of 360 cameras:
 
-- Position the tripod at the viewpoint where you want to take the photographs and make sure is levelled with the bubble.
+1. Position the tripod at the viewpoint where you want to take the photographs and make sure is levelled with the bubble.
 
-- Mount the camera on the tripod.
+2. Mount the camera on the tripod.
 
-- Turn on the camera, and turn on the wifi.
+3. Turn on the camera, and turn on the wifi.
 
-- Turn on the Wifi(or Bluetooth if you are using another system) on your phone, find the camera and connect to it.
+4. Turn on the Wifi (or Bluetooth if you are using another system) on your phone, find the camera and connect to it.
 
-- Open the [control camera App](https://www.insta360.com/download/insta360-pro2) and connect to it (for the Insta360 you can follow the tutorial on the app).
+5. Open the [control camera App](https://www.insta360.com/download/insta360-pro2) and connect to it (for the Insta360 you can follow the tutorial on the app).
 
-- Keep the camera straight using a level function of the camera app.
+6. Keep the camera straight using a level function of the camera app.
 
-- Adjust the light setting on the app. Settings for acquiring well-lighted photographs are the same settings for standard DSRL cameras. You should be already familiar with these settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
+7. Adjust the light setting on the app. Settings for acquiring well-lighted photographs are the same settings for standard DSRL cameras. You should be already familiar with these settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
 
-- Start taking the first photographs. This will be a series of 6 photographs for mono viewing or 12 for stereo viewing.
+8. Start taking the first photographs. This will be a series of 6 photographs for mono viewing or 12 for stereo viewing.
 
 Here is a quick video tutorial for general 360 camera shooting:
 
@@ -119,6 +123,6 @@ How to shoot panoramas with a 360 camera, under [under [Metareal](https://www.me
 
 - In all cases use a remote control or a dedicated app for taking photographs to avoid camera movements.
 
-- Always try to acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with software such as [Raw Therapee](https://www.rawtherapee.com/)
+- Acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with software such as [Raw Therapee](https://www.rawtherapee.com/)
 
 

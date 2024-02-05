@@ -24,22 +24,44 @@ photography of Cultural Heritage.
 
 ![Mānoa Heritage Center, Honolulu, Hawaii. 2022-1025, Fuzheado, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2022-1025-manoa-heritage-center-7.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a0/2022-1025-manoa-heritage-center-7.jpg)
 
-[**Click Here**](https://panoviewer.toolforge.org/#2022-1025-manoa-heritage-center-7.jpg) to view the interactive version
+<iframe width="100%" height="300px" src="https://panoviewer.toolforge.org/#2022-1025-manoa-heritage-center-7.jpg" title="description"></iframe>
+
+[**Click Here**](https://panoviewer.toolforge.org/#2022-1025-manoa-heritage-center-7.jpg){target="_blank"} to open the interactive visualisation in another window
 
 \
 
-Spherical panorama images have entered the Cultural Heritage realm since the beginning of this technique. This is because these photographs give the viewer the possibility to explore the surroundings of a certain environment with ease. Spherical panorama images are one of the best tools to visualise a complete representation of a cultural environment at a specific point where the photograph would have been taken. This is also enhanced when associated with Virtual Tours (not to be confused with 3D virtual tours which come from video game techniques). In this section, however, we will concentrate only on a single spherical photograph digitisation, because the creation and publication of 360 virtual tours is out of the scope of this workshop. The article: [**Panoramic 360◦ Sphere: Digitization and Mobilization of Cultural Heritage Site and Story Visualizing of History for Cultural Tourism, by Ylenia Cariani**](https://www.silvher.eu/2021/01/04/panoramic-360%E2%97%A6-sphere-digitization-and-mobilization-of-cultural-heritage-site-and-story-visualizing-of-history-for-cultural-tourism/) highlights why digitasation with spherical panorama has its benefit especially for Cultural Tourism.
-Another article by Wei Ren and Xianhong Chen evaluates the [**Online Online 360° Virtual Reality World Heritage Site During COVID-19**](https://www.degruyter.com/document/doi/10.1515/opar-2020-0188/html)
 
+This is because these photographs 
+
+Spherical panorama images are popular for documenting Cultural Heritage, because:
+
+- Allow to visualise an accurate and rich representation of cultural environment from a vantage point.
+- They give the viewer the possibility to explore the surroundings of a certain environment with ease. 
+- Allow to create Virtual Tours (not to be confused with 3D virtual tours which come from video game techniques).
+
+
+The article: [**Panoramic 360◦ Sphere: Digitization and Mobilization of Cultural Heritage Site and Story Visualizing of History for Cultural Tourism, by Ylenia Cariani**](https://www.silvher.eu/2021/01/04/panoramic-360%E2%97%A6-sphere-digitization-and-mobilization-of-cultural-heritage-site-and-story-visualizing-of-history-for-cultural-tourism/) highlights the benefits of spherical panorama for cultural tourism.
+
+::::: challenge
+
+Think on how spherical panorama might provide different or complementary
+information to 3D models acquired using photogrammetry.
+
+In which cases does it make sense to deploy 360 photography within the
+context of your project?
+
+::::: 
+
+<!--Another article by Wei Ren and Xianhong Chen evaluates the [**Online Online 360° Virtual Reality World Heritage Site During COVID-19**](https://www.degruyter.com/document/doi/10.1515/opar-2020-0188/html)
+-->
 
 \
 
-> Here you can view some other examples of the [**UNESCO World Heritage Sites**](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/).
-
 \
 
-A list of projects that used this technique as digitisation method is provided below:
+The following are examples of projects using these techniques:
 
+- [**UNESCO World Heritage Sites**](https://www.p4panorama.com/gallery-categories/unesco-360-virtual-tours/)
 - [360-walkthrough of the-booth-museums osteology gallery](https://brightonmuseums.org.uk/discovery/history-stories/360-walkthrough-of-the-booth-museums-osteology-gallery/)
 - [The Met 360° Project](https://www.metmuseum.org/art/online-features/met-360-project)
 - [Van Gogh Museum Amsterdam](https://360stories.com/amsterdam/story/van-gogh-museum) 
@@ -52,7 +74,7 @@ A list of projects that used this technique as digitisation method is provided b
 
 \
 
-
+<!---
 :::::::::::::::::::::::::::::::::::::: challenge 
 
 Reflect on how the examples described could 
@@ -64,3 +86,4 @@ technology.
 
 
 :::::::::::::::::::::
+--->

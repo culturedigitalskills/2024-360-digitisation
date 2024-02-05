@@ -81,11 +81,6 @@ You can download the [full data set ](https://data.d4science.org/shub/E_KzdpRzNs
 **Photos** of [St Mary's Roman Catholic Church](https://maps.app.goo.gl/giyXNK7kP4z5ohUK8) Brighton (UK), DSVMC University of Brighton, under [DSVMC](https://culturedigitalskills.org/), via [D4Science](https://services.d4science.org/)
 
 
-\
-\
-
-
-The tutorial is built with [The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/), as part of the training activities of the [AHRC-funded network service on Digital Skills in Visual and Material Culture](https://www.culturedigitalskills.org).
 
 
 ::::::::::::::::::::::::::::::::::::::: discussion
@@ -105,6 +100,7 @@ required. If you have not registered, it would be useful to do so before
 the lesson. For more information, see [instructions](https://universityofbrighton.github.io/2023-fair-multidimensional-media/virtual-research-environment.html#virtual-research-environments-vre)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 The tutorial is built with [The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/), as part of the training activities of the [AHRC-funded network service on Digital Skills in Visual and Material Culture](https://www.culturedigitalskills.org). 
 
