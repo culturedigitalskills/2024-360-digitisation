@@ -35,7 +35,7 @@ NICOLA PLEASE: add more analytical and comprehensive text on how each technique 
 </span>
  -->
 
-## Multiple-shot rotating (Pano Kit)
+## Multiple-shot rotating (Pano Kit) DSLR camera
 
 This technique uses a regular **DSLR camera, a compact camera or a mobile phone**, accompanied by **rotating mechanism** such as the [Matterport](https://matterport.com/axis) for DSLR cameras or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) for mobile phones.
 
