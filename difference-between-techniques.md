@@ -51,9 +51,14 @@ For vertical coverage it would be necessary one of the following:
 
 This is a general guideline for shooting with regular cameras. A good rule is to overlap the photos for at least **1/3** of each sequential image. However there are many different lenses for DSLR cameras and it is important to know their characteristics, especially the FOV's(Field of View) settings. 
 
-- [**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline for choosing the right amount of overlap depending on the field of view of the lenses.
 
-- [**On this page**](http://learn360photography.com/) you can find a list of kit parts for shooting with this technique
+[**On this page**](https://www.digitaltrends.com/photography/photography-101-how-to-shoot-360-degree-panoramas/) you can find how to uss a DSLR  camera to capture spherical panorama
+
+[**Here**](https://www.vrphotography.com/data/pages/techtutorials/technotes/panincrements.html) you can find a guideline for choosing the right amount of overlap depending on the field of view of the lenses.
+
+[**On this page**](http://learn360photography.com/) you can find a list of kit parts for shooting with this technique
+
+
 
 ![A Camera attached to a Gimbal, Public domain, under [Pexel](https://www.pexels.com/photo/a-camera-attached-to-a-gimbal-10300318/) ](fig/pexels-amar-preciado-10300318.jpg)
 
