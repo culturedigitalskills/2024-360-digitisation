@@ -104,14 +104,8 @@ How to setup a VR or 360 Camera - Insta360 Pro, under
 
 
 
-
- 
-\
-
 #### Ideas for Equipment
 
 
 > Please also have a look at [**this page**](http://learn360photography.com/) for  a good resource of material and settings for taking spherical panorama photos
- 
- \
- 
+

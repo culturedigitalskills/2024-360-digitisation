@@ -60,32 +60,49 @@ The idea of panoramic representation can be traced back to 20 A.D for example wi
 
 \
 
-> When considering panoramic photographs we must be aware of certain terminology, this is because there are different techniques for visualising immersive 360 environments. These techniques are applied depending on the user's outcome and purpose. In this lesson, we are not going to explore either VR immersive environments being made with spherical stereographic photographs or with full 3D explorable settings (3D engines and video games). The purpose here is to understand the process of capturing and visualising spherical panorama photographs for cultural heritage environment digitisation.
+When considering panoramic photographs we must be aware of certain terminology, this is because there are different techniques involved. Firstly we must differentiate between a [raster **digital image**](https://culturedigitalskills.github.io/2024-3d-digitisation-methods/types-of-media.html#digital-images) and a [vectorised **3D environment**](https://culturedigitalskills.github.io/2024-3d-digitisation-methods/types-of-media.html#vector-data) which allows
+for interactivity, for example when visualising immersive 360 environments (e.g. VR).
+
+In this lesson, we focus on the 
+<!--are not going to explore either VR immersive environments being made with spherical stereographic photographs or with full 3D explorable settings (3D engines and video games). The purpose here is to understand the -->
+process of digitising and visualising panorama digital images or photographs for cultural heritage.
 
 
 
 ## Panorama photographs
 
-These are photographs of a full or partial 360 horizontal view of their shooting point. 
+These are digital images which captures a 360 / wide-angle 
+horizontal view or a broad perspective of a scene.
 
-They are not fully spherical images and, although they can be mapped onto a sphere they lack information on the top and the bottom part of the image, at most they can be mapped to a cylindrical projection.
+The digital images can be re-projected onto a cylinder or a sphere 
+for visualisation. Although they can lack information when re-projecting on a sphere.
 
-![360 degree view of Giza pyramid complex, kallerna, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_-_360.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/32/Giza_pyramid_complex_-_360.jpg)  
-
-
+![360 degree panorama photograph of Giza pyramid complex, kallerna, under [ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giza_pyramid_complex_-_360.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/32/Giza_pyramid_complex_-_360.jpg)  
 
 ## Spherical panorama photographs
 
-These are special photographs of a full spherical view from the shooting point. 
-Usually, a processed photo, is also known as a **photosphere** or simply **spherical panorama**. It is an image that offers a complete 360-degree view of a scene in every direction. With special interactive viewers, it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by simply dragging the image or tilting the device[^3].
+A spherical panorama photograph captures a full view of a 
+scene in every direction, both horizontally and vertically, 
+from the shooting point. 
+Unlike traditional panoramas that cover a wide horizontal span, 
+spherical panoramas allow viewers to look in 
+any direction. 
+
+It also known as a **photosphere**, **360-degree panorama** or **spherical panorama**. 
+With special interactive viewers, it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by allowing the user to rotate with three degress of freedom interactivity[^3].
+
+![3-degrees of freedom allows a user to rotate their head to see up/down, left/right as well as tilt their neck sideways](https://upload.wikimedia.org/wikipedia/commons/f/fa/DOF_Degrees_of_freedom_%28mechanics%29.png){width="50%"}
 
 
  ![360° panorama of Plavecký hrad, Doronenko, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plaveck%C3%BD_hrad_360_panorama_06.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/Plaveck%C3%BD_hrad_360_panorama_06.jpg) 
  
  
-\
-\
-\
+
+
+All panoramas can be created using specialized panoramic cameras, 
+wide-angle lenses, or by using software to stitch together 
+photos taken from a single vantage point.
+ 
 
 [^1]: Chambers's Encyclopaedia. (1973). United Kingdom: International Learning Systems, p747
 

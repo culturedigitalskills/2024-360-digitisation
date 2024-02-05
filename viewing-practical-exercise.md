@@ -37,7 +37,7 @@ Choose a spherical interactive viewer that best suits your purposes
 Once the photographs have been captured you will need to download them onto the computer, process them and publish the result to be viewed in different formats.
 Try to follow these basic steps to achieve a good result:
 
-1. Get the camera out of the box and place it in a secure area near the computer (you can also use the tripod for better security)
+1. Get the camera out of the box and place it in a secure area near the computer (you can also use the tripod).
 
 2. Connect the camera to the computer via Ethernet or by other means [(please see section 6 of this document)](processing-stitching.Rmd)
 
