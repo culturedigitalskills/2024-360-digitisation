@@ -26,10 +26,7 @@ NICOLA PLEASE: explain with text how a practical exercise will be done. This doe
 ![Insta360 Pro2, Lexi Lang, under [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Insta360_Pro2.png)](https://upload.wikimedia.org/wikipedia/commons/4/47/Insta360_Pro2.png) 
  
 
-A practical exercise in taking spherical panorama photographs would be the best option to start learning some techniques for digitising 360 environments of Cultural Heritage sites.
-
-
-
+<!--
 :::::::::::::::::::::::::::::::::::::: challenge 
 
 Reflect on how to capture some spherical panorama photographs and choose the best position of the environment that you are in.
@@ -38,33 +35,36 @@ Try to use different camera settings to enhance the output of the images
 
 
 :::::::::::::::::::::
+-->
 
-
-In this exercise we are going to try two separate shooting settings one **exterior** and one **interior**, the procedure is very similar the only difference when you are inside is the lower light condition so you will have to take into consideration the normal setting of any shooting session.
+We are going to photograph both in a **exterior** and **interior** environment. 
+The procedure is similar. The main difference when inside is the lower light condition so you will have to take into consideration the normal setting of any shooting session.
 
 #### Steps for Interior and exterior shooting
 
-1. Please direct yourself to the bottom floor of this building (or any interior building halls) and find a suitable position to cover most of the space of the hall. If you decide to go outside instead direct yourself to the opposite garden of the building.
+1. Please direct yourself to the interior of building (e.g. can be the same building you are training). Find a suitable position to cover most of the space of the room. 
 
-2. Position the tripod on your desired spot
+<!--If you decide to go outside instead direct yourself to the opposite garden of the building.-->
+
+2. Position the tripod on your desired spot.
 
 3. Unpack the Insta360 camera from the box and position it on top of the tripod.
 
-4. Make sure the tripod is levelled using the bubble
+4. Make sure the tripod is levelled using the bubble.
 
-5. Attach the camera on top of the tripod
+5. Attach the camera on top of the tripod.
 
-6. Attach the two little antennas on top of the camera
+6. Attach the two antennas on top of the camera, or any other additional equipment required (e.g. microphone).
 
-7. Switch on the camera
+7. Switch on the camera.
 
-8. Connect the camera to the  phone App (which you have downloaded at the beginning of this lesson)
+8. Connect the camera to the  phone App (which you have downloaded at the beginning of this lesson).
 
 9. Set up the app to mono shooting and change the setting of the lighting according to your test and the quality of the photograph.
 
-10. Remember to step away from the camera and hide yourself somewhere where the camera will not be able to see you and take a shot
+10. Remember to step away from the camera and hide yourself somewhere where the camera will not be able to see you and take a shot.
 
-11. In theory you will only need one shot however try to experiment with different positions if you have time. (if you do so please try to plan a small shooting tour so that all the parts of the area that you are shooting will be covered)
+11. Experiment with different positions, for example, try a small shooting tour so that all the parts of the area that you are shooting will be covered.
 
 
 ![Insta360 Pro2, DSMVC, University of Brighton](./fig/thumbnail1.jpg)
@@ -79,11 +79,11 @@ In this exercise we are going to try two separate shooting settings one **exteri
 
 
 
-Basic tips to achieve a good shooting session in this exercise are (also see previous section for a more extensive list of tips):
+Basic tips to achieve a good shooting session in this exercise are:
 
- - Find a good position for the camera
- - Try not to shoot against walls
- - Try not to shoot when the sun is low on the horizon and directly pointing towards one of the camera lenses (unless you want to achieve a particular effect)
+ - Do find a good position for the camera
+ - Do not shoot against walls
+ - Do not to shoot when the sun is low on the horizon and directly pointing towards one of the camera lenses (unless you want to achieve a particular effect).
  
 Finally, you can also follow this tutorial for basic camera operation and to connect the camera to your phone:
 
@@ -104,8 +104,5 @@ How to setup a VR or 360 Camera - Insta360 Pro, under
 
 
 
-#### Ideas for Equipment
 
-
-> Please also have a look at [**this page**](http://learn360photography.com/) for  a good resource of material and settings for taking spherical panorama photos
 

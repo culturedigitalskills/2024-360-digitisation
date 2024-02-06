@@ -117,12 +117,12 @@ How to shoot panoramas with a 360 camera, under [under [Metareal](https://www.me
 
 ## Shooting tips
 
-- Use a good-quality tripod for maximum stabilisation. However, try to use a not slimmer tripod to avoid too much editing of the final image.
+- Use a good-quality, strudy and slim tripod.
 
-- Keep the sun on the side of the camera and do not position the camera directly looking at the sun.
+- Where possible, keep the sun on the side of the camera and do not position the camera directly looking at the sun.
 
 - In all cases use a remote control or a dedicated app for taking photographs to avoid camera movements.
 
-- Acquire the photographs in raw format as they contain more colour information. Later it will be possible to convert them with software such as [Raw Therapee](https://www.rawtherapee.com/)
+- Acquire the photographs in raw format as they contain more colour information. 
 
 
