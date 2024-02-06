@@ -15,6 +15,9 @@ exercises: 0
 
 \
 
+[Taking spherical panorama photos](http://learn360photography.com/)
+
+
 [Cambridge in Colour](https://www.cambridgeincolour.com/)
 
 [Images and content from James Hays, Computer Vision module @ Brown University](http://cs.brown.edu/courses/cs143/)
