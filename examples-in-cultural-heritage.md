@@ -12,7 +12,7 @@ exercises: 0
 
 
 ::::::::::::::::::::::::::::::::::::: objectives
-Pho
+
 - Lists projects with examples of digitisation using spherical panorama
 photography of Cultural Heritage.
 
@@ -31,8 +31,6 @@ photography of Cultural Heritage.
 \
 
 
-This is because these photographs 
-
 Spherical panorama images are popular for documenting Cultural Heritage, because:
 
 - Allow to visualise an accurate and rich representation of cultural environment from a vantage point.
@@ -42,15 +40,7 @@ Spherical panorama images are popular for documenting Cultural Heritage, because
 
 The article: [**Panoramic 360◦ Sphere: Digitization and Mobilization of Cultural Heritage Site and Story Visualizing of History for Cultural Tourism, by Ylenia Cariani**](https://www.silvher.eu/2021/01/04/panoramic-360%E2%97%A6-sphere-digitization-and-mobilization-of-cultural-heritage-site-and-story-visualizing-of-history-for-cultural-tourism/) highlights the benefits of spherical panorama for cultural tourism.
 
-::::: challenge
 
-Think on how spherical panorama might provide different or complementary
-information to 3D models acquired using photogrammetry.
-
-In which cases does it make sense to deploy 360 photography within the
-context of your project?
-
-::::: 
 
 <!--Another article by Wei Ren and Xianhong Chen evaluates the [**Online Online 360° Virtual Reality World Heritage Site During COVID-19**](https://www.degruyter.com/document/doi/10.1515/opar-2020-0188/html)
 -->
@@ -73,6 +63,16 @@ The following are examples of projects using these techniques:
 
 
 \
+
+::::: challenge
+
+Think on how spherical panorama might provide different or complementary
+information to 3D models acquired using photogrammetry.
+
+In which cases does it make sense to deploy 360 photography within the
+context of your project?
+
+::::: 
 
 <!---
 :::::::::::::::::::::::::::::::::::::: challenge 
