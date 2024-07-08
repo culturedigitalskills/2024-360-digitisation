@@ -2,35 +2,13 @@
 title: Instructor Notes
 ---
 
-## Aim of this session
+## Digital Skills in Visual and Material Culture - General Guidelines for Instructors
 
-To learn about 360 photography,
-and how to create panoramas which can be
-accessed via web viewers.
+### Background
+These notes were produced as part of the [A Roadmap for a National Training Centre on Multidimensional Digital Media in the Arts and Humanities” project](https://culturedigitalskills.org/) (Grant No. AH/X007626/1) funded under the [UK's Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) under the Embed digital skills in arts and humanities research scheme, which aims to address the digital skills gap within the arts and humanities research community. 
 
-The lesson presents basic background on this technique,
-as well as practical exercises to acquire a
-sample images with some suggestions
-on equipment to use.
+Our pilot addresses the need to upskill researchers and other communities worldwide, including practitioners in the Galleries, Libraries, Archives and Museum (GLAM), and creative industries, in the digitisation, processing, analysis, management, use and reuse of visual media. Interest in these activities is partly driven by the availability of devices, such as smartphones and web platforms to provide access to the content, as well as the potential of the data to support research, access, dissemination, and creative reuse. 
 
-## Learning outcome(s)
+![](../episodes/fig/colorlogo_centre.png){width=50% alt="logo"}
 
-By the end of this lessons learners will be able to:
-
-
-
-## Prerequisite knowledge level
-
-Basic literacy on:
-
-- Digital photography
-- Image processing
-- Dealing with large amounts of files 
-
-
-## Targeted expertise level
-
-Basic to medium expertise on digital photography and handling information in PCs.
-
-
-## Setup and Structure
+Please visit: https://culturedigitalskills.org/instructor-notes/
