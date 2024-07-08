@@ -71,7 +71,7 @@ process of digitising and visualising panorama digital images or photographs for
 
 ## Panorama photographs
 
-These are digital images which captures a 360 / wide-angle 
+These are digital images which capture a 360 / wide-angle 
 horizontal view or a broad perspective of a scene.
 
 The digital images can be re-projected onto a cylinder or a sphere 
@@ -89,7 +89,7 @@ spherical panoramas allow viewers to look in
 any direction. 
 
 It also known as a **photosphere**, **360-degree panorama** or **spherical panorama**. 
-With special interactive viewers, it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by allowing the user to rotate with three degress of freedom interactivity[^3].
+With special interactive viewers, it is possible to explore the image as if we were standing right in the middle of it, experiencing the entire surroundings by allowing the user to rotate with three degrees of freedom with regards to interaction[^3].
 
 ![3-degrees of freedom allows a user to rotate their head to see up/down, left/right as well as tilt their neck sideways](https://upload.wikimedia.org/wikipedia/commons/f/fa/DOF_Degrees_of_freedom_%28mechanics%29.png){width="50%"}
 
@@ -99,7 +99,7 @@ With special interactive viewers, it is possible to explore the image as if we w
  
 
 
-All panoramas can be created using specialized panoramic cameras, 
+All panoramas can be created using specialised panoramic cameras, 
 wide-angle lenses, or by using software to stitch together 
 photos taken from a single vantage point.
  

@@ -26,9 +26,9 @@ In this section, we will explore how to view and publish spherical panorama imag
 
 :::::::::::::::::::::::::::::::::::::: challenge 
 
-Collect the processed spherical panorama images and prepare them to view them online.
+Collect the processed spherical panorama images and prepare them for online viewing.
 
-Choose a spherical interactive viewer that best suits your purposes
+Choose a spherical interactive viewer that best suits your purposes.
 
 
 :::::::::::::::::::::
@@ -39,13 +39,13 @@ Try to follow these basic steps to achieve a good result:
 
 1. Get the camera out of the box and place it in a secure area near the computer (you can also use the tripod).
 
-2. Connect the camera to the computer via Ethernet or by other means [(please see section 6 of this document)](processing-stitching.Rmd)
+2. Connect the camera to the computer via Ethernet or by other means [(please see section 6 of this document)](processing-stitching.Rmd).
 
-3. Follow the steps in section [6 of this document](processing-stitching.Rmd) downloading and stitching
+3. Follow the steps in section [6 of this document](processing-stitching.Rmd) for downloading and stitching.
 
-4. Once you have your spherical panorama stitched files choose one of your stitched images and upload it onto a web server such as [D4Science](https://accounts.d4science.org/auth/realms/d4science/protocol/openid-connect/auth?scope=openid&response_type=code&state=24965829E4B1F86C390E7F7D656310AD.infra-gateway1&redirect_uri=https%3A%2F%2Fservices.d4science.org%2Fc%2Fportal%2Flogin&login=true&client_id=services.d4science.org), [Imgur](https://imgur.com/)  or [Wekemedia](https://commons.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page) (you need to create an account for these last two)
+4. Once you have your spherical panorama stitched files choose one of your stitched images and upload it onto a web server such as [D4Science](https://accounts.d4science.org/auth/realms/d4science/protocol/openid-connect/auth?scope=openid&response_type=code&state=24965829E4B1F86C390E7F7D656310AD.infra-gateway1&redirect_uri=https%3A%2F%2Fservices.d4science.org%2Fc%2Fportal%2Flogin&login=true&client_id=services.d4science.org), [Imgur](https://imgur.com/)  or [Wikimedia](https://commons.wikimedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page) (you need to create an account for these last two).
 
-5. Once the file is uploaded get the URL link of the image and past it into the first box of [Pannellum viewer](https://pannellum.org/documentation/overview/tutorial/)
+5. Once the file is uploaded get the URL link of the image and past it into the first box of [Pannellum viewer](https://pannellum.org/documentation/overview/tutorial/).
 
 6. Congratulations you are viewing your first spherical panorama photograph online!
 
@@ -55,7 +55,7 @@ Try to follow these basic steps to achieve a good result:
 
 
 
-There are many interactive viewers for spherical panorama photographs some more basic while others more advanced.[The Pannellum viewer](https://pannellum.org) is a good starting point because is open source and customizable. With Pannelum and other viewers, it will also be possible to create Virtual tours, however, it is out of the scope of this exercise to learn how to create this type of visualisation. If you want to further explore this type of publication here is a list of tools that you may be able to use for your project:
+There are many interactive viewers for spherical panorama photographs some more basic while others more advanced.[The Pannellum viewer](https://pannellum.org) is a good starting point because it is open source and customisable. With Pannellum and other viewers, it will also be possible to create Virtual tours, however, it is out of the scope of this exercise to learn how to create this type of visualisation. If you want to further explore this type of publication here is a list of tools that you may be able to use for your project:
 
 
 
