@@ -13,7 +13,7 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: objectives 
 
-- Practical exercise and some ideas for equipment.
+- Practical exercise and some ideas for equipment
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -42,7 +42,7 @@ The procedure is similar. The main difference when inside is the lower light con
 
 #### Steps for Interior and exterior shooting
 
-1. Please direct yourself to the interior of building (e.g. can be the same building you are training). Find a suitable position to cover most of the space of the room. 
+1. Please direct yourself to the interior of the building. Find a suitable position to cover most of the space of the room. 
 
 <!--If you decide to go outside instead direct yourself to the opposite garden of the building.-->
 
@@ -85,7 +85,7 @@ Basic tips to achieve a good shooting session in this exercise are:
  - Do not shoot against walls
  - Do not to shoot when the sun is low on the horizon and directly pointing towards one of the camera lenses (unless you want to achieve a particular effect).
  
-Finally, you can also follow this tutorial for basic camera operation and to connect the camera to your phone:
+Finally, you can also follow these tutorials for basic camera operation and to connect the camera to your phone:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-g0dkBTFiCI?si=dTNHA4MRu2x01hb_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

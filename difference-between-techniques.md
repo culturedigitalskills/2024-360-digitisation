@@ -43,7 +43,7 @@ This technique uses a regular **DSLR camera, a compact camera or a mobile phone*
  
 Whichever device you use, the idea is to take interval-timed photographs, covering the whole 360 horizontal and vertical area. 
 
-For vertical coverage it would be necessary one of the following:
+For vertical coverage you will need:
 
 - a wide-angle lens in portrait mode for DSLR cameras
 
@@ -100,7 +100,7 @@ The algorithm used by many cameras such as the insta360 Pro 2 is called [dense o
 -->
 \
 
-![The image overlap regions of six geometrically aligned and warped images in the 360 @BULLET street-view panoramic view where the black, the green and the red stand for the no-overlapped, two-overlapped, multi-overlapped image regions, respectively. Figure 3 - available via license: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en)](https://www.researchgate.net/publication/311851755/figure/fig1/AS:442520124563456@1482516427768/The-image-overlap-regions-of-six-geometrically-aligned-and-warped-images-in-the-360.png)
+![The image overlapping regions of six geometrically aligned and warped images in the 360 @BULLET street-view panoramic view where the black, the green and the red stand for the no-overlapped, two-overlapped, multi-overlapped image regions, respectively. Figure 3 - available via license: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en)](https://www.researchgate.net/publication/311851755/figure/fig1/AS:442520124563456@1482516427768/The-image-overlap-regions-of-six-geometrically-aligned-and-warped-images-in-the-360.png)
 
 
 \
@@ -115,7 +115,7 @@ NICOLA PLEASE add textual information on this to explain to people why and how t
 </span>
 -->
 
-Below you can see a brief explanation of the differences in cost, quality and time of using one or the other technique.
+Below you can see a brief explanation about the differences in cost, quality and time for using one or the other technique.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EeXVBV4Tfc0?si=OBRxPKi6cYqgxpdX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 

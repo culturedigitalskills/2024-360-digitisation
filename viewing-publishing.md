@@ -15,7 +15,7 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: objectives 
 
-- Explain different viewing and publishing methods for spherical photography.
+- Explain different viewing and publishing methods for spherical photography
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
@@ -47,7 +47,7 @@ There are different types of projection for mapping panorama images onto a flat 
 
 <!--This [Cambridge In Color website](https://www.cambridgeincolour.com/tutorials/image-projections.htm)offers comprehensive information on these types of projections.-->
 
-The stitching software that we used for this workshop returns 360 images with an Equirectangular projection, however you can further learn about the technicality of the different types of [projections](https://www.cambridgeincolour.com/tutorials/image-projections.htm) .
+The stitching software that we used for this workshop returns 360 images with an Equirectangular projection, however you can further learn about the technicality of the different types of [projections](https://www.cambridgeincolour.com/tutorials/image-projections.htm).
 
 For advanced learning purposes, it is also advisable to experiment with applications such as [**PTGui**](https://ptgui.com/) or [**PTAssembler**](https://www.tawbaware.com/ptasmblr.htm). They give full control in creating panorama images from single flat photographs. 
 
@@ -69,7 +69,7 @@ They are useful for building measuring purposes and landscape representations. A
 
 \
 
-### Fish-eye lenses images
+### Fish-eye lens images
 
 Usually they go up to 180 degrees of field of view. They can be mapped onto a 3D viewer after processing them with stitching software or with a viewer that can project spherical 360 images.
 
@@ -93,7 +93,7 @@ There are several commercial and non-commercial viewers for mapping 360 photogra
 
 We are going to use the [Pannellum Online viewer](https://pannellum.org/documentation/overview/tutorial/) for its simplicity and the possibility of directly publishing 360 images online. The viewer was developed by [Matthew Petroff](https://mpetroff.net/) and the full publication can be found: [https://doi.org/10.21105/joss.01628](https://doi.org/10.21105/joss.01628)
 
-Go back to the [setup page](../learner/setup.Rmd) and choose one of the church's images by right clicking on it and getting the link, then paste it on the [viewer](https://pannellum.org/documentation/overview/tutorial/).
+Go back to the [setup page](../learner/setup.Rmd) and choose one of the church's images by right clicking on it and getting the link, then paste it to the [viewer](https://pannellum.org/documentation/overview/tutorial/).
 
 To view your own produced image please upload them to a site that supports [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing), e.g. [Imgur](https://imgur.com/) and get the link.
 

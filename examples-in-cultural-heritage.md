@@ -33,9 +33,9 @@ photography of Cultural Heritage.
 
 Spherical panorama images are popular for documenting Cultural Heritage, because:
 
-- Allow to visualise an accurate and rich representation of cultural environment from a vantage point.
+- They allow to visualise an accurate and rich representation of cultural environment from a vantage point.
 - They give the viewer the possibility to explore the surroundings of a certain environment with ease. 
-- Allow to create Virtual Tours (not to be confused with 3D virtual tours which come from video game techniques).
+- They llow to create Virtual Tours (not to be confused with 3D virtual tours which come from video game techniques).
 
 
 The article: [**Panoramic 360◦ Sphere: Digitization and Mobilization of Cultural Heritage Site and Story Visualizing of History for Cultural Tourism, by Ylenia Cariani**](https://www.silvher.eu/2021/01/04/panoramic-360%E2%97%A6-sphere-digitization-and-mobilization-of-cultural-heritage-site-and-story-visualizing-of-history-for-cultural-tourism/) highlights the benefits of spherical panorama for cultural tourism.
@@ -66,7 +66,7 @@ The following are examples of projects using these techniques:
 
 ::::: challenge
 
-Think on how spherical panorama might provide different or complementary
+Think how spherical panorama might provide different or complementary
 information to 3D models acquired using photogrammetry.
 
 In which cases does it make sense to deploy 360 photography within the

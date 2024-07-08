@@ -11,7 +11,7 @@ When using this method  we should follow these specific steps:
 
 1. Position the tripod at the point where you want to take the photographs and make sure is levelled with the bubble.
 
-2. Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app.
+2. Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorised and operated with a remote control or with a specialised app.
 
 3. Mount the camera on top of the rotating mount and turn it on.
 
@@ -29,7 +29,7 @@ especially if you are shooting outside in good light conditions.
 7. Start shooting by rotating the camera at a minimum 60-degree angle, depending
 on the focal length of your lens. Please refer to the [previous section](difference-between-techniques.Rmd) to check the amount of pictures to be taken.
 
-8. To speed up the process you can use a [motorized camera mount](https://www.manfrotto.com/global/genie-ii-pan-tilt-sy0031-0001/) synchronized with the timer of the camera. In this case:
+8. To speed up the process you can use a [motorised camera mount](https://www.manfrotto.com/global/genie-ii-pan-tilt-sy0031-0001/) synchronised with the timer of the camera. In this case:
 
   - Set up the number of photographs to be taken on your camera.
   
@@ -52,7 +52,7 @@ You will need a mobile phone mount like the [monfrotto](https://www.manfrotto.co
 
 <!--
 ### Compact cameras and mobile phones 
-1. Position the tripod at the point where you want to take the photographs and make sure is leveled with the bubble.
+1. Position the tripod at the point where you want to take the photographs and make sure is levelled with the bubble.
 
 2. Mount the [rotating (mount) mechanism](https://www.manfrotto.com/global/move-quick-release-system-mvaqr/) on the tripod. The mount can be motorized and operated with a remote or with a specialised app.
 
@@ -66,7 +66,7 @@ You will need a mobile phone mount like the [monfrotto](https://www.manfrotto.co
 
 - Take the next shot until completing the full 360 rotation
 
-- To speed up the process you can use a compact camera [motorized camera mount](https://www.manfrotto.com/global/pixi-pano360-remotely-controlled-motorized-head-mhpixi360/) synchronized with the timer of the camera (if the camera offers this function otherwise take manual shots with the remote of the camera). In this case:
+- To speed up the process you can use a compact camera [motorised camera mount](https://www.manfrotto.com/global/pixi-pano360-remotely-controlled-motorized-head-mhpixi360/) synchronised with the timer of the camera (if the camera offers this function otherwise take manual shots with the remote of the camera). In this case:
 
   - Set up the number of photographs to be taken on your camera.
   
@@ -74,7 +74,7 @@ You will need a mobile phone mount like the [monfrotto](https://www.manfrotto.co
   
   - Start the process.
   
-- To speed up the process with a mobile phone you can use a  mobile phone mount like the [monfrotto](https://www.manfrotto.com/global/pixi-pano360-remotely-controlled-motorized-head-mhpixi360/) or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) with the proprietary app. In this case:
+- To speed up the process with a mobile phone you can use a  mobile phone mount like the [manfrotto](https://www.manfrotto.com/global/pixi-pano360-remotely-controlled-motorized-head-mhpixi360/) or the [Insta360 Flow](https://www.insta360.com/product/insta360-flow) with the proprietary app. In this case:
 
   - Set up the app so that it will take a full 360 rotation.
   
@@ -96,7 +96,7 @@ Although these steps are specific to the Insta360 Pro 2, they remain easily appl
 
 2. Mount the camera on the tripod.
 
-3. Turn on the camera, and turn on the wifi.
+3. Turn on the camera, and turn on the Wifi.
 
 4. Turn on the Wifi (or Bluetooth if you are using another system) on your phone, find the camera and connect to it.
 
@@ -104,7 +104,7 @@ Although these steps are specific to the Insta360 Pro 2, they remain easily appl
 
 6. Keep the camera straight using a level function of the camera app.
 
-7. Adjust the light setting on the app. Settings for acquiring well-lighted photographs are the same settings for standard DSRL cameras. You should be already familiar with these settings. If you need some help you can consult [this guideline](https://capturetheatlas.com/camera-settings/)
+7. Adjust the light setting on the app. Settings for acquiring well-lighted photographs are the same settings for standard DSRL cameras. You should be already familiar with these settings. If you need some help you can consult [these guidelines](https://capturetheatlas.com/camera-settings/).
 
 8. Start taking the first photographs. This will be a series of 6 photographs for mono viewing or 12 for stereo viewing.
 
