@@ -14,7 +14,7 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Lists projects with examples of digitisation using spherical panorama
-photography of Cultural Heritage.
+photography of Cultural Heritage
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
