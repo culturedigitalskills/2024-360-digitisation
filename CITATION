@@ -1,11 +1,13 @@
 To reference information about this module, please cite:
 
-Karina Rodriguez and Nicola Schiavottiello. "Digitisation with 360 Degrees Photography". 2024.
+Karina Rodriguez and Nicola Schiavottiello. "Digitisation with 360 Degrees Photography". 2024. https://doi.org/10.5281/zenodo.12698446
 
 @online{rodriguez-360-24,
   author      = {Karina {Rodriguez Echavarria} and Nicola Schiavottiello}
   title       = {Digitisation with 360 Degrees Photography},
   year        = {2024},
+url = {https://doi.org/10.5281/zenodo.12698446},
+doi = {10.5281/zenodo.12698446},
 }
 
 Title: Digitisation with 360 Degrees Photography
